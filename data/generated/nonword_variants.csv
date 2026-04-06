@@ -1,0 +1,970 @@
+prompt_id,prompt_text,template_type,category,subcategory,base_prompt_id,source_prompt_text,generation_method,original_word,pseudoword
+unc_nonword_00001,a bikeg of a dog,photo_of_object,uncertain,non_word,base_0001,a photo of a dog,pseudoword_replacement,photo,bikeg
+unc_nonword_00002,a waxoc of a cat,photo_of_object,uncertain,non_word,base_0002,a photo of a cat,pseudoword_replacement,photo,waxoc
+unc_nonword_00003,a dekuy of a chair,photo_of_object,uncertain,non_word,base_0003,a photo of a chair,pseudoword_replacement,photo,dekuy
+unc_nonword_00004,a wezur of a table,photo_of_object,uncertain,non_word,base_0004,a photo of a table,pseudoword_replacement,photo,wezur
+unc_nonword_00005,a sulah of a cup,photo_of_object,uncertain,non_word,base_0005,a photo of a cup,pseudoword_replacement,photo,sulah
+unc_nonword_00006,a photo of a nigena,photo_of_object,uncertain,non_word,base_0006,a photo of a bottle,pseudoword_replacement,bottle,nigena
+unc_nonword_00007,a qapiy of a bicycle,photo_of_object,uncertain,non_word,base_0007,a photo of a bicycle,pseudoword_replacement,photo,qapiy
+unc_nonword_00008,a photo of a cowa,photo_of_object,uncertain,non_word,base_0008,a photo of a car,pseudoword_replacement,car,cowa
+unc_nonword_00009,a photo of a dumu,photo_of_object,uncertain,non_word,base_0009,a photo of a rack,pseudoword_replacement,rack,dumu
+unc_nonword_00010,a photo of an xedak,photo_of_object,uncertain,non_word,base_0010,a photo of an apple,pseudoword_replacement,apple,xedak
+unc_nonword_00011,a photo of a defolo,photo_of_object,uncertain,non_word,base_0011,a photo of a banana,pseudoword_replacement,banana,defolo
+unc_nonword_00012,a photo of a hipe,photo_of_object,uncertain,non_word,base_0012,a photo of a book,pseudoword_replacement,book,hipe
+unc_nonword_00013,a photo of a zayew,photo_of_object,uncertain,non_word,base_0013,a photo of a phone,pseudoword_replacement,phone,zayew
+unc_nonword_00014,a hoqiz of a laptop,photo_of_object,uncertain,non_word,base_0014,a photo of a laptop,pseudoword_replacement,photo,hoqiz
+unc_nonword_00015,a nakan of a camera,photo_of_object,uncertain,non_word,base_0015,a photo of a camera,pseudoword_replacement,photo,nakan
+unc_nonword_00016,a photo of a lajunezo,photo_of_object,uncertain,non_word,base_0016,a photo of a backpack,pseudoword_replacement,backpack,lajunezo
+unc_nonword_00017,a photo of a zogigewulu,photo_of_object,uncertain,non_word,base_0017,a photo of a television,pseudoword_replacement,television,zogigewulu
+unc_nonword_00018,a red xope,color_object,uncertain,non_word,base_0018,a red dog,pseudoword_replacement,dog,xope
+unc_nonword_00019,a voda cat,color_object,uncertain,non_word,base_0019,a red cat,pseudoword_replacement,red,voda
+unc_nonword_00020,a geru chair,color_object,uncertain,non_word,base_0020,a red chair,pseudoword_replacement,red,geru
+unc_nonword_00021,a qoyo table,color_object,uncertain,non_word,base_0021,a red table,pseudoword_replacement,red,qoyo
+unc_nonword_00022,a red wafu,color_object,uncertain,non_word,base_0022,a red cup,pseudoword_replacement,cup,wafu
+unc_nonword_00023,a red zifire,color_object,uncertain,non_word,base_0023,a red bottle,pseudoword_replacement,bottle,zifire
+unc_nonword_00024,a red bivevaz,color_object,uncertain,non_word,base_0024,a red bicycle,pseudoword_replacement,bicycle,bivevaz
+unc_nonword_00025,a red zuye,color_object,uncertain,non_word,base_0025,a red car,pseudoword_replacement,car,zuye
+unc_nonword_00026,a pewu rack,color_object,uncertain,non_word,base_0026,a red rack,pseudoword_replacement,red,pewu
+unc_nonword_00027,a yita apple,color_object,uncertain,non_word,base_0027,a red apple,pseudoword_replacement,red,yita
+unc_nonword_00028,a pika banana,color_object,uncertain,non_word,base_0028,a red banana,pseudoword_replacement,red,pika
+unc_nonword_00029,a xado book,color_object,uncertain,non_word,base_0029,a red book,pseudoword_replacement,red,xado
+unc_nonword_00030,a wego phone,color_object,uncertain,non_word,base_0030,a red phone,pseudoword_replacement,red,wego
+unc_nonword_00031,a luyo laptop,color_object,uncertain,non_word,base_0031,a red laptop,pseudoword_replacement,red,luyo
+unc_nonword_00032,a wemo camera,color_object,uncertain,non_word,base_0032,a red camera,pseudoword_replacement,red,wemo
+unc_nonword_00033,a red susakedi,color_object,uncertain,non_word,base_0033,a red backpack,pseudoword_replacement,backpack,susakedi
+unc_nonword_00034,a xuku television,color_object,uncertain,non_word,base_0034,a red television,pseudoword_replacement,red,xuku
+unc_nonword_00035,a baza dog,color_object,uncertain,non_word,base_0035,a blue dog,pseudoword_replacement,blue,baza
+unc_nonword_00036,a dana cat,color_object,uncertain,non_word,base_0036,a blue cat,pseudoword_replacement,blue,dana
+unc_nonword_00037,a loju chair,color_object,uncertain,non_word,base_0037,a blue chair,pseudoword_replacement,blue,loju
+unc_nonword_00038,a xute table,color_object,uncertain,non_word,base_0038,a blue table,pseudoword_replacement,blue,xute
+unc_nonword_00039,a blue refa,color_object,uncertain,non_word,base_0039,a blue cup,pseudoword_replacement,cup,refa
+unc_nonword_00040,a blue poroca,color_object,uncertain,non_word,base_0040,a blue bottle,pseudoword_replacement,bottle,poroca
+unc_nonword_00041,a qife bicycle,color_object,uncertain,non_word,base_0041,a blue bicycle,pseudoword_replacement,blue,qife
+unc_nonword_00042,a juse car,color_object,uncertain,non_word,base_0042,a blue car,pseudoword_replacement,blue,juse
+unc_nonword_00043,a blue hise,color_object,uncertain,non_word,base_0043,a blue rack,pseudoword_replacement,rack,hise
+unc_nonword_00044,a sufa apple,color_object,uncertain,non_word,base_0044,a blue apple,pseudoword_replacement,blue,sufa
+unc_nonword_00045,a deho banana,color_object,uncertain,non_word,base_0045,a blue banana,pseudoword_replacement,blue,deho
+unc_nonword_00046,a blue teqa,color_object,uncertain,non_word,base_0046,a blue book,pseudoword_replacement,book,teqa
+unc_nonword_00047,a qaqi phone,color_object,uncertain,non_word,base_0047,a blue phone,pseudoword_replacement,blue,qaqi
+unc_nonword_00048,a blue mowoge,color_object,uncertain,non_word,base_0048,a blue laptop,pseudoword_replacement,laptop,mowoge
+unc_nonword_00049,a blue jaxuci,color_object,uncertain,non_word,base_0049,a blue camera,pseudoword_replacement,camera,jaxuci
+unc_nonword_00050,a cutu backpack,color_object,uncertain,non_word,base_0050,a blue backpack,pseudoword_replacement,blue,cutu
+unc_nonword_00051,a cude television,color_object,uncertain,non_word,base_0051,a blue television,pseudoword_replacement,blue,cude
+unc_nonword_00052,a yakof dog,color_object,uncertain,non_word,base_0052,a green dog,pseudoword_replacement,green,yakof
+unc_nonword_00053,a xucud cat,color_object,uncertain,non_word,base_0053,a green cat,pseudoword_replacement,green,xucud
+unc_nonword_00054,a green xuvil,color_object,uncertain,non_word,base_0054,a green chair,pseudoword_replacement,chair,xuvil
+unc_nonword_00055,a nelog table,color_object,uncertain,non_word,base_0055,a green table,pseudoword_replacement,green,nelog
+unc_nonword_00056,a green sida,color_object,uncertain,non_word,base_0056,a green cup,pseudoword_replacement,cup,sida
+unc_nonword_00057,a green yufawe,color_object,uncertain,non_word,base_0057,a green bottle,pseudoword_replacement,bottle,yufawe
+unc_nonword_00058,a green gidepih,color_object,uncertain,non_word,base_0058,a green bicycle,pseudoword_replacement,bicycle,gidepih
+unc_nonword_00059,a green wiyu,color_object,uncertain,non_word,base_0059,a green car,pseudoword_replacement,car,wiyu
+unc_nonword_00060,a wifel rack,color_object,uncertain,non_word,base_0060,a green rack,pseudoword_replacement,green,wifel
+unc_nonword_00061,a fugim apple,color_object,uncertain,non_word,base_0061,a green apple,pseudoword_replacement,green,fugim
+unc_nonword_00062,a neziv banana,color_object,uncertain,non_word,base_0062,a green banana,pseudoword_replacement,green,neziv
+unc_nonword_00063,a green lado,color_object,uncertain,non_word,base_0063,a green book,pseudoword_replacement,book,lado
+unc_nonword_00064,a green canez,color_object,uncertain,non_word,base_0064,a green phone,pseudoword_replacement,phone,canez
+unc_nonword_00065,a green howowa,color_object,uncertain,non_word,base_0065,a green laptop,pseudoword_replacement,laptop,howowa
+unc_nonword_00066,a dewap camera,color_object,uncertain,non_word,base_0066,a green camera,pseudoword_replacement,green,dewap
+unc_nonword_00067,a recip backpack,color_object,uncertain,non_word,base_0067,a green backpack,pseudoword_replacement,green,recip
+unc_nonword_00068,a pekap television,color_object,uncertain,non_word,base_0068,a green television,pseudoword_replacement,green,pekap
+unc_nonword_00069,a yellow yeke,color_object,uncertain,non_word,base_0069,a yellow dog,pseudoword_replacement,dog,yeke
+unc_nonword_00070,a rahire cat,color_object,uncertain,non_word,base_0070,a yellow cat,pseudoword_replacement,yellow,rahire
+unc_nonword_00071,a yellow haqat,color_object,uncertain,non_word,base_0071,a yellow chair,pseudoword_replacement,chair,haqat
+unc_nonword_00072,a jopike table,color_object,uncertain,non_word,base_0072,a yellow table,pseudoword_replacement,yellow,jopike
+unc_nonword_00073,a jonidi cup,color_object,uncertain,non_word,base_0073,a yellow cup,pseudoword_replacement,yellow,jonidi
+unc_nonword_00074,a yellow zuquna,color_object,uncertain,non_word,base_0074,a yellow bottle,pseudoword_replacement,bottle,zuquna
+unc_nonword_00075,a lexica bicycle,color_object,uncertain,non_word,base_0075,a yellow bicycle,pseudoword_replacement,yellow,lexica
+unc_nonword_00076,a yellow piru,color_object,uncertain,non_word,base_0076,a yellow car,pseudoword_replacement,car,piru
+unc_nonword_00077,a qujico rack,color_object,uncertain,non_word,base_0077,a yellow rack,pseudoword_replacement,yellow,qujico
+unc_nonword_00078,a vujira apple,color_object,uncertain,non_word,base_0078,a yellow apple,pseudoword_replacement,yellow,vujira
+unc_nonword_00079,a yellow yifivi,color_object,uncertain,non_word,base_0079,a yellow banana,pseudoword_replacement,banana,yifivi
+unc_nonword_00080,a yellow nomu,color_object,uncertain,non_word,base_0080,a yellow book,pseudoword_replacement,book,nomu
+unc_nonword_00081,a joqeyu phone,color_object,uncertain,non_word,base_0081,a yellow phone,pseudoword_replacement,yellow,joqeyu
+unc_nonword_00082,a yellow qubime,color_object,uncertain,non_word,base_0082,a yellow laptop,pseudoword_replacement,laptop,qubime
+unc_nonword_00083,a yellow xuziso,color_object,uncertain,non_word,base_0083,a yellow camera,pseudoword_replacement,camera,xuziso
+unc_nonword_00084,a yellow jutedivu,color_object,uncertain,non_word,base_0084,a yellow backpack,pseudoword_replacement,backpack,jutedivu
+unc_nonword_00085,a yellow demejebako,color_object,uncertain,non_word,base_0085,a yellow television,pseudoword_replacement,television,demejebako
+unc_nonword_00086,a sozuj dog,color_object,uncertain,non_word,base_0086,a black dog,pseudoword_replacement,black,sozuj
+unc_nonword_00087,a black toke,color_object,uncertain,non_word,base_0087,a black cat,pseudoword_replacement,cat,toke
+unc_nonword_00088,a fokev chair,color_object,uncertain,non_word,base_0088,a black chair,pseudoword_replacement,black,fokev
+unc_nonword_00089,a black cukas,color_object,uncertain,non_word,base_0089,a black table,pseudoword_replacement,table,cukas
+unc_nonword_00090,a suwun cup,color_object,uncertain,non_word,base_0090,a black cup,pseudoword_replacement,black,suwun
+unc_nonword_00091,a black yuruse,color_object,uncertain,non_word,base_0091,a black bottle,pseudoword_replacement,bottle,yuruse
+unc_nonword_00092,a black sikivoz,color_object,uncertain,non_word,base_0092,a black bicycle,pseudoword_replacement,bicycle,sikivoz
+unc_nonword_00093,a lodik car,color_object,uncertain,non_word,base_0093,a black car,pseudoword_replacement,black,lodik
+unc_nonword_00094,a black niwa,color_object,uncertain,non_word,base_0094,a black rack,pseudoword_replacement,rack,niwa
+unc_nonword_00095,a geqej apple,color_object,uncertain,non_word,base_0095,a black apple,pseudoword_replacement,black,geqej
+unc_nonword_00096,a ronus banana,color_object,uncertain,non_word,base_0096,a black banana,pseudoword_replacement,black,ronus
+unc_nonword_00097,a black cero,color_object,uncertain,non_word,base_0097,a black book,pseudoword_replacement,book,cero
+unc_nonword_00098,a xotap phone,color_object,uncertain,non_word,base_0098,a black phone,pseudoword_replacement,black,xotap
+unc_nonword_00099,a black qowuye,color_object,uncertain,non_word,base_0099,a black laptop,pseudoword_replacement,laptop,qowuye
+unc_nonword_00100,a black kirobo,color_object,uncertain,non_word,base_0100,a black camera,pseudoword_replacement,camera,kirobo
+unc_nonword_00101,a black qeseyubo,color_object,uncertain,non_word,base_0101,a black backpack,pseudoword_replacement,backpack,qeseyubo
+unc_nonword_00102,a dogoh television,color_object,uncertain,non_word,base_0102,a black television,pseudoword_replacement,black,dogoh
+unc_nonword_00103,a lones dog,color_object,uncertain,non_word,base_0103,a white dog,pseudoword_replacement,white,lones
+unc_nonword_00104,a white nolo,color_object,uncertain,non_word,base_0104,a white cat,pseudoword_replacement,cat,nolo
+unc_nonword_00105,a white dobuc,color_object,uncertain,non_word,base_0105,a white chair,pseudoword_replacement,chair,dobuc
+unc_nonword_00106,a white kazab,color_object,uncertain,non_word,base_0106,a white table,pseudoword_replacement,table,kazab
+unc_nonword_00107,a jayek cup,color_object,uncertain,non_word,base_0107,a white cup,pseudoword_replacement,white,jayek
+unc_nonword_00108,a taxes bottle,color_object,uncertain,non_word,base_0108,a white bottle,pseudoword_replacement,white,taxes
+unc_nonword_00109,a white peyufem,color_object,uncertain,non_word,base_0109,a white bicycle,pseudoword_replacement,bicycle,peyufem
+unc_nonword_00110,a xamuq car,color_object,uncertain,non_word,base_0110,a white car,pseudoword_replacement,white,xamuq
+unc_nonword_00111,a white jaxe,color_object,uncertain,non_word,base_0111,a white rack,pseudoword_replacement,rack,jaxe
+unc_nonword_00112,a mufuc apple,color_object,uncertain,non_word,base_0112,a white apple,pseudoword_replacement,white,mufuc
+unc_nonword_00113,a white wopavi,color_object,uncertain,non_word,base_0113,a white banana,pseudoword_replacement,banana,wopavi
+unc_nonword_00114,a rofop book,color_object,uncertain,non_word,base_0114,a white book,pseudoword_replacement,white,rofop
+unc_nonword_00115,a white gohuz,color_object,uncertain,non_word,base_0115,a white phone,pseudoword_replacement,phone,gohuz
+unc_nonword_00116,a white yutoru,color_object,uncertain,non_word,base_0116,a white laptop,pseudoword_replacement,laptop,yutoru
+unc_nonword_00117,a white nedise,color_object,uncertain,non_word,base_0117,a white camera,pseudoword_replacement,camera,nedise
+unc_nonword_00118,a white xuqibone,color_object,uncertain,non_word,base_0118,a white backpack,pseudoword_replacement,backpack,xuqibone
+unc_nonword_00119,a white jililulubu,color_object,uncertain,non_word,base_0119,a white television,pseudoword_replacement,television,jililulubu
+unc_nonword_00120,a derowe dog,color_object,uncertain,non_word,base_0120,a purple dog,pseudoword_replacement,purple,derowe
+unc_nonword_00121,a purple zosa,color_object,uncertain,non_word,base_0121,a purple cat,pseudoword_replacement,cat,zosa
+unc_nonword_00122,a meqemu chair,color_object,uncertain,non_word,base_0122,a purple chair,pseudoword_replacement,purple,meqemu
+unc_nonword_00123,a purple tuvir,color_object,uncertain,non_word,base_0123,a purple table,pseudoword_replacement,table,tuvir
+unc_nonword_00124,a purple poli,color_object,uncertain,non_word,base_0124,a purple cup,pseudoword_replacement,cup,poli
+unc_nonword_00125,a purple kajifu,color_object,uncertain,non_word,base_0125,a purple bottle,pseudoword_replacement,bottle,kajifu
+unc_nonword_00126,a jetixu bicycle,color_object,uncertain,non_word,base_0126,a purple bicycle,pseudoword_replacement,purple,jetixu
+unc_nonword_00127,a purple feme,color_object,uncertain,non_word,base_0127,a purple car,pseudoword_replacement,car,feme
+unc_nonword_00128,a purple hibu,color_object,uncertain,non_word,base_0128,a purple rack,pseudoword_replacement,rack,hibu
+unc_nonword_00129,a lacume apple,color_object,uncertain,non_word,base_0129,a purple apple,pseudoword_replacement,purple,lacume
+unc_nonword_00130,a purple faxito,color_object,uncertain,non_word,base_0130,a purple banana,pseudoword_replacement,banana,faxito
+unc_nonword_00131,a purple neci,color_object,uncertain,non_word,base_0131,a purple book,pseudoword_replacement,book,neci
+unc_nonword_00132,a purple faqod,color_object,uncertain,non_word,base_0132,a purple phone,pseudoword_replacement,phone,faqod
+unc_nonword_00133,a gexide laptop,color_object,uncertain,non_word,base_0133,a purple laptop,pseudoword_replacement,purple,gexide
+unc_nonword_00134,a woyuye camera,color_object,uncertain,non_word,base_0134,a purple camera,pseudoword_replacement,purple,woyuye
+unc_nonword_00135,a purple somurixu,color_object,uncertain,non_word,base_0135,a purple backpack,pseudoword_replacement,backpack,somurixu
+unc_nonword_00136,a yajela television,color_object,uncertain,non_word,base_0136,a purple television,pseudoword_replacement,purple,yajela
+unc_nonword_00137,an kewaha dog,color_object,uncertain,non_word,base_0137,an orange dog,pseudoword_replacement,orange,kewaha
+unc_nonword_00138,an orange suti,color_object,uncertain,non_word,base_0138,an orange cat,pseudoword_replacement,cat,suti
+unc_nonword_00139,an kimode chair,color_object,uncertain,non_word,base_0139,an orange chair,pseudoword_replacement,orange,kimode
+unc_nonword_00140,an orange zujof,color_object,uncertain,non_word,base_0140,an orange table,pseudoword_replacement,table,zujof
+unc_nonword_00141,an zeleda cup,color_object,uncertain,non_word,base_0141,an orange cup,pseudoword_replacement,orange,zeleda
+unc_nonword_00142,an muxisa bottle,color_object,uncertain,non_word,base_0142,an orange bottle,pseudoword_replacement,orange,muxisa
+unc_nonword_00143,an orange moluwos,color_object,uncertain,non_word,base_0143,an orange bicycle,pseudoword_replacement,bicycle,moluwos
+unc_nonword_00144,an yariyi car,color_object,uncertain,non_word,base_0144,an orange car,pseudoword_replacement,orange,yariyi
+unc_nonword_00145,an dexubi rack,color_object,uncertain,non_word,base_0145,an orange rack,pseudoword_replacement,orange,dexubi
+unc_nonword_00146,an hovole apple,color_object,uncertain,non_word,base_0146,an orange apple,pseudoword_replacement,orange,hovole
+unc_nonword_00147,an orange zodopo,color_object,uncertain,non_word,base_0147,an orange banana,pseudoword_replacement,banana,zodopo
+unc_nonword_00148,an orange nahi,color_object,uncertain,non_word,base_0148,an orange book,pseudoword_replacement,book,nahi
+unc_nonword_00149,an orange tiquc,color_object,uncertain,non_word,base_0149,an orange phone,pseudoword_replacement,phone,tiquc
+unc_nonword_00150,an orange dilifo,color_object,uncertain,non_word,base_0150,an orange laptop,pseudoword_replacement,laptop,dilifo
+unc_nonword_00151,an woraju camera,color_object,uncertain,non_word,base_0151,an orange camera,pseudoword_replacement,orange,woraju
+unc_nonword_00152,an orange yozocelu,color_object,uncertain,non_word,base_0152,an orange backpack,pseudoword_replacement,backpack,yozocelu
+unc_nonword_00153,an motabu television,color_object,uncertain,non_word,base_0153,an orange television,pseudoword_replacement,orange,motabu
+unc_nonword_00154,a hiwa dog,color_object,uncertain,non_word,base_0154,a pink dog,pseudoword_replacement,pink,hiwa
+unc_nonword_00155,a pink defo,color_object,uncertain,non_word,base_0155,a pink cat,pseudoword_replacement,cat,defo
+unc_nonword_00156,a zeti chair,color_object,uncertain,non_word,base_0156,a pink chair,pseudoword_replacement,pink,zeti
+unc_nonword_00157,a pink rotes,color_object,uncertain,non_word,base_0157,a pink table,pseudoword_replacement,table,rotes
+unc_nonword_00158,a qeyu cup,color_object,uncertain,non_word,base_0158,a pink cup,pseudoword_replacement,pink,qeyu
+unc_nonword_00159,a diri bottle,color_object,uncertain,non_word,base_0159,a pink bottle,pseudoword_replacement,pink,diri
+unc_nonword_00160,a pink bimuxog,color_object,uncertain,non_word,base_0160,a pink bicycle,pseudoword_replacement,bicycle,bimuxog
+unc_nonword_00161,a pink wopi,color_object,uncertain,non_word,base_0161,a pink car,pseudoword_replacement,car,wopi
+unc_nonword_00162,a pink sije,color_object,uncertain,non_word,base_0162,a pink rack,pseudoword_replacement,rack,sije
+unc_nonword_00163,a pink kocit,color_object,uncertain,non_word,base_0163,a pink apple,pseudoword_replacement,apple,kocit
+unc_nonword_00164,a pink qetagu,color_object,uncertain,non_word,base_0164,a pink banana,pseudoword_replacement,banana,qetagu
+unc_nonword_00165,a pink fofu,color_object,uncertain,non_word,base_0165,a pink book,pseudoword_replacement,book,fofu
+unc_nonword_00166,a pink bered,color_object,uncertain,non_word,base_0166,a pink phone,pseudoword_replacement,phone,bered
+unc_nonword_00167,a pink liyoza,color_object,uncertain,non_word,base_0167,a pink laptop,pseudoword_replacement,laptop,liyoza
+unc_nonword_00168,a pink wonowa,color_object,uncertain,non_word,base_0168,a pink camera,pseudoword_replacement,camera,wonowa
+unc_nonword_00169,a kika backpack,color_object,uncertain,non_word,base_0169,a pink backpack,pseudoword_replacement,pink,kika
+unc_nonword_00170,a pink fasemacici,color_object,uncertain,non_word,base_0170,a pink television,pseudoword_replacement,television,fasemacici
+unc_nonword_00171,a brown poge,color_object,uncertain,non_word,base_0171,a brown dog,pseudoword_replacement,dog,poge
+unc_nonword_00172,a brown xehe,color_object,uncertain,non_word,base_0172,a brown cat,pseudoword_replacement,cat,xehe
+unc_nonword_00173,a yoyet chair,color_object,uncertain,non_word,base_0173,a brown chair,pseudoword_replacement,brown,yoyet
+unc_nonword_00174,a kozis table,color_object,uncertain,non_word,base_0174,a brown table,pseudoword_replacement,brown,kozis
+unc_nonword_00175,a brown bomu,color_object,uncertain,non_word,base_0175,a brown cup,pseudoword_replacement,cup,bomu
+unc_nonword_00176,a dopum bottle,color_object,uncertain,non_word,base_0176,a brown bottle,pseudoword_replacement,brown,dopum
+unc_nonword_00177,a brown lomeqof,color_object,uncertain,non_word,base_0177,a brown bicycle,pseudoword_replacement,bicycle,lomeqof
+unc_nonword_00178,a qupum car,color_object,uncertain,non_word,base_0178,a brown car,pseudoword_replacement,brown,qupum
+unc_nonword_00179,a brown bola,color_object,uncertain,non_word,base_0179,a brown rack,pseudoword_replacement,rack,bola
+unc_nonword_00180,a yomey apple,color_object,uncertain,non_word,base_0180,a brown apple,pseudoword_replacement,brown,yomey
+unc_nonword_00181,a brown keyiga,color_object,uncertain,non_word,base_0181,a brown banana,pseudoword_replacement,banana,keyiga
+unc_nonword_00182,a mocup book,color_object,uncertain,non_word,base_0182,a brown book,pseudoword_replacement,brown,mocup
+unc_nonword_00183,a dinoh phone,color_object,uncertain,non_word,base_0183,a brown phone,pseudoword_replacement,brown,dinoh
+unc_nonword_00184,a gupuv laptop,color_object,uncertain,non_word,base_0184,a brown laptop,pseudoword_replacement,brown,gupuv
+unc_nonword_00185,a brown hitina,color_object,uncertain,non_word,base_0185,a brown camera,pseudoword_replacement,camera,hitina
+unc_nonword_00186,a brown dekowido,color_object,uncertain,non_word,base_0186,a brown backpack,pseudoword_replacement,backpack,dekowido
+unc_nonword_00187,a lufop television,color_object,uncertain,non_word,base_0187,a brown television,pseudoword_replacement,brown,lufop
+unc_nonword_00188,a gray xozi,color_object,uncertain,non_word,base_0188,a gray dog,pseudoword_replacement,dog,xozi
+unc_nonword_00189,a kobu cat,color_object,uncertain,non_word,base_0189,a gray cat,pseudoword_replacement,gray,kobu
+unc_nonword_00190,a gray yezaz,color_object,uncertain,non_word,base_0190,a gray chair,pseudoword_replacement,chair,yezaz
+unc_nonword_00191,a gray mofec,color_object,uncertain,non_word,base_0191,a gray table,pseudoword_replacement,table,mofec
+unc_nonword_00192,a mofa cup,color_object,uncertain,non_word,base_0192,a gray cup,pseudoword_replacement,gray,mofa
+unc_nonword_00193,a weqo bottle,color_object,uncertain,non_word,base_0193,a gray bottle,pseudoword_replacement,gray,weqo
+unc_nonword_00194,a gray woxerat,color_object,uncertain,non_word,base_0194,a gray bicycle,pseudoword_replacement,bicycle,woxerat
+unc_nonword_00195,a gray lape,color_object,uncertain,non_word,base_0195,a gray car,pseudoword_replacement,car,lape
+unc_nonword_00196,a gray sepa,color_object,uncertain,non_word,base_0196,a gray rack,pseudoword_replacement,rack,sepa
+unc_nonword_00197,a gray wicol,color_object,uncertain,non_word,base_0197,a gray apple,pseudoword_replacement,apple,wicol
+unc_nonword_00198,a fode banana,color_object,uncertain,non_word,base_0198,a gray banana,pseudoword_replacement,gray,fode
+unc_nonword_00199,a cike book,color_object,uncertain,non_word,base_0199,a gray book,pseudoword_replacement,gray,cike
+unc_nonword_00200,a duju phone,color_object,uncertain,non_word,base_0200,a gray phone,pseudoword_replacement,gray,duju
+unc_nonword_00201,a kigu laptop,color_object,uncertain,non_word,base_0201,a gray laptop,pseudoword_replacement,gray,kigu
+unc_nonword_00202,a legu camera,color_object,uncertain,non_word,base_0202,a gray camera,pseudoword_replacement,gray,legu
+unc_nonword_00203,a gray habebiku,color_object,uncertain,non_word,base_0203,a gray backpack,pseudoword_replacement,backpack,habebiku
+unc_nonword_00204,a gray belagovado,color_object,uncertain,non_word,base_0204,a gray television,pseudoword_replacement,television,belagovado
+unc_nonword_00205,a magenta puxa,color_object,uncertain,non_word,base_0205,a magenta dog,pseudoword_replacement,dog,puxa
+unc_nonword_00206,a magenta veya,color_object,uncertain,non_word,base_0206,a magenta cat,pseudoword_replacement,cat,veya
+unc_nonword_00207,a magenta sacoq,color_object,uncertain,non_word,base_0207,a magenta chair,pseudoword_replacement,chair,sacoq
+unc_nonword_00208,a magenta fosad,color_object,uncertain,non_word,base_0208,a magenta table,pseudoword_replacement,table,fosad
+unc_nonword_00209,a magenta yede,color_object,uncertain,non_word,base_0209,a magenta cup,pseudoword_replacement,cup,yede
+unc_nonword_00210,a magenta yuwiqu,color_object,uncertain,non_word,base_0210,a magenta bottle,pseudoword_replacement,bottle,yuwiqu
+unc_nonword_00211,a magenta suyofaz,color_object,uncertain,non_word,base_0211,a magenta bicycle,pseudoword_replacement,bicycle,suyofaz
+unc_nonword_00212,a rokonoq car,color_object,uncertain,non_word,base_0212,a magenta car,pseudoword_replacement,magenta,rokonoq
+unc_nonword_00213,a magenta firi,color_object,uncertain,non_word,base_0213,a magenta rack,pseudoword_replacement,rack,firi
+unc_nonword_00214,a magenta petad,color_object,uncertain,non_word,base_0214,a magenta apple,pseudoword_replacement,apple,petad
+unc_nonword_00215,a dofiguc banana,color_object,uncertain,non_word,base_0215,a magenta banana,pseudoword_replacement,magenta,dofiguc
+unc_nonword_00216,a magenta fopo,color_object,uncertain,non_word,base_0216,a magenta book,pseudoword_replacement,book,fopo
+unc_nonword_00217,a mumifuv phone,color_object,uncertain,non_word,base_0217,a magenta phone,pseudoword_replacement,magenta,mumifuv
+unc_nonword_00218,a gokapup laptop,color_object,uncertain,non_word,base_0218,a magenta laptop,pseudoword_replacement,magenta,gokapup
+unc_nonword_00219,a lukowuy camera,color_object,uncertain,non_word,base_0219,a magenta camera,pseudoword_replacement,magenta,lukowuy
+unc_nonword_00220,a yibelin backpack,color_object,uncertain,non_word,base_0220,a magenta backpack,pseudoword_replacement,magenta,yibelin
+unc_nonword_00221,a magenta beguqagadu,color_object,uncertain,non_word,base_0221,a magenta television,pseudoword_replacement,television,beguqagadu
+unc_nonword_00222,a qosi dog,color_object,uncertain,non_word,base_0222,a lime dog,pseudoword_replacement,lime,qosi
+unc_nonword_00223,a pinu cat,color_object,uncertain,non_word,base_0223,a lime cat,pseudoword_replacement,lime,pinu
+unc_nonword_00224,a cehu chair,color_object,uncertain,non_word,base_0224,a lime chair,pseudoword_replacement,lime,cehu
+unc_nonword_00225,a diso table,color_object,uncertain,non_word,base_0225,a lime table,pseudoword_replacement,lime,diso
+unc_nonword_00226,a lime yori,color_object,uncertain,non_word,base_0226,a lime cup,pseudoword_replacement,cup,yori
+unc_nonword_00227,a vapo bottle,color_object,uncertain,non_word,base_0227,a lime bottle,pseudoword_replacement,lime,vapo
+unc_nonword_00228,a mutu bicycle,color_object,uncertain,non_word,base_0228,a lime bicycle,pseudoword_replacement,lime,mutu
+unc_nonword_00229,a lime cequ,color_object,uncertain,non_word,base_0229,a lime car,pseudoword_replacement,car,cequ
+unc_nonword_00230,a beme rack,color_object,uncertain,non_word,base_0230,a lime rack,pseudoword_replacement,lime,beme
+unc_nonword_00231,a lina apple,color_object,uncertain,non_word,base_0231,a lime apple,pseudoword_replacement,lime,lina
+unc_nonword_00232,a tohe banana,color_object,uncertain,non_word,base_0232,a lime banana,pseudoword_replacement,lime,tohe
+unc_nonword_00233,a lime wevu,color_object,uncertain,non_word,base_0233,a lime book,pseudoword_replacement,book,wevu
+unc_nonword_00234,a lime docob,color_object,uncertain,non_word,base_0234,a lime phone,pseudoword_replacement,phone,docob
+unc_nonword_00235,a lime dixoxo,color_object,uncertain,non_word,base_0235,a lime laptop,pseudoword_replacement,laptop,dixoxo
+unc_nonword_00236,a lime maqane,color_object,uncertain,non_word,base_0236,a lime camera,pseudoword_replacement,camera,maqane
+unc_nonword_00237,a lime parakoxo,color_object,uncertain,non_word,base_0237,a lime backpack,pseudoword_replacement,backpack,parakoxo
+unc_nonword_00238,a qine television,color_object,uncertain,non_word,base_0238,a lime television,pseudoword_replacement,lime,qine
+unc_nonword_00239,a cyan hava,color_object,uncertain,non_word,base_0239,a cyan dog,pseudoword_replacement,dog,hava
+unc_nonword_00240,a pize cat,color_object,uncertain,non_word,base_0240,a cyan cat,pseudoword_replacement,cyan,pize
+unc_nonword_00241,a fele chair,color_object,uncertain,non_word,base_0241,a cyan chair,pseudoword_replacement,cyan,fele
+unc_nonword_00242,a yeza table,color_object,uncertain,non_word,base_0242,a cyan table,pseudoword_replacement,cyan,yeza
+unc_nonword_00243,a zosu cup,color_object,uncertain,non_word,base_0243,a cyan cup,pseudoword_replacement,cyan,zosu
+unc_nonword_00244,a cyan xunigo,color_object,uncertain,non_word,base_0244,a cyan bottle,pseudoword_replacement,bottle,xunigo
+unc_nonword_00245,a tozi bicycle,color_object,uncertain,non_word,base_0245,a cyan bicycle,pseudoword_replacement,cyan,tozi
+unc_nonword_00246,a cyan xapu,color_object,uncertain,non_word,base_0246,a cyan car,pseudoword_replacement,car,xapu
+unc_nonword_00247,a mosa rack,color_object,uncertain,non_word,base_0247,a cyan rack,pseudoword_replacement,cyan,mosa
+unc_nonword_00248,a pida apple,color_object,uncertain,non_word,base_0248,a cyan apple,pseudoword_replacement,cyan,pida
+unc_nonword_00249,a cyan suwasu,color_object,uncertain,non_word,base_0249,a cyan banana,pseudoword_replacement,banana,suwasu
+unc_nonword_00250,a nutu book,color_object,uncertain,non_word,base_0250,a cyan book,pseudoword_replacement,cyan,nutu
+unc_nonword_00251,a cofi phone,color_object,uncertain,non_word,base_0251,a cyan phone,pseudoword_replacement,cyan,cofi
+unc_nonword_00252,a vece laptop,color_object,uncertain,non_word,base_0252,a cyan laptop,pseudoword_replacement,cyan,vece
+unc_nonword_00253,a cyan suvuhi,color_object,uncertain,non_word,base_0253,a cyan camera,pseudoword_replacement,camera,suvuhi
+unc_nonword_00254,a cyan moriyazi,color_object,uncertain,non_word,base_0254,a cyan backpack,pseudoword_replacement,backpack,moriyazi
+unc_nonword_00255,a nawo television,color_object,uncertain,non_word,base_0255,a cyan television,pseudoword_replacement,cyan,nawo
+unc_nonword_00256,a small lugi,attribute_object,uncertain,non_word,base_0256,a small dog,pseudoword_replacement,dog,lugi
+unc_nonword_00257,a xepiz cat,attribute_object,uncertain,non_word,base_0257,a small cat,pseudoword_replacement,small,xepiz
+unc_nonword_00258,a small gudiw,attribute_object,uncertain,non_word,base_0258,a small chair,pseudoword_replacement,chair,gudiw
+unc_nonword_00259,a small zigud,attribute_object,uncertain,non_word,base_0259,a small table,pseudoword_replacement,table,zigud
+unc_nonword_00260,a small vibi,attribute_object,uncertain,non_word,base_0260,a small cup,pseudoword_replacement,cup,vibi
+unc_nonword_00261,a small henoje,attribute_object,uncertain,non_word,base_0261,a small bottle,pseudoword_replacement,bottle,henoje
+unc_nonword_00262,a gamav bicycle,attribute_object,uncertain,non_word,base_0262,a small bicycle,pseudoword_replacement,small,gamav
+unc_nonword_00263,a nuguq car,attribute_object,uncertain,non_word,base_0263,a small car,pseudoword_replacement,small,nuguq
+unc_nonword_00264,a heyes rack,attribute_object,uncertain,non_word,base_0264,a small rack,pseudoword_replacement,small,heyes
+unc_nonword_00265,a rikoy apple,attribute_object,uncertain,non_word,base_0265,a small apple,pseudoword_replacement,small,rikoy
+unc_nonword_00266,a small sewemo,attribute_object,uncertain,non_word,base_0266,a small banana,pseudoword_replacement,banana,sewemo
+unc_nonword_00267,a pusom book,attribute_object,uncertain,non_word,base_0267,a small book,pseudoword_replacement,small,pusom
+unc_nonword_00268,a small vurej,attribute_object,uncertain,non_word,base_0268,a small phone,pseudoword_replacement,phone,vurej
+unc_nonword_00269,a lazop laptop,attribute_object,uncertain,non_word,base_0269,a small laptop,pseudoword_replacement,small,lazop
+unc_nonword_00270,a vamah camera,attribute_object,uncertain,non_word,base_0270,a small camera,pseudoword_replacement,small,vamah
+unc_nonword_00271,a small sugodesi,attribute_object,uncertain,non_word,base_0271,a small backpack,pseudoword_replacement,backpack,sugodesi
+unc_nonword_00272,a raqup television,attribute_object,uncertain,non_word,base_0272,a small television,pseudoword_replacement,small,raqup
+unc_nonword_00273,a qape dog,attribute_object,uncertain,non_word,base_0273,a big dog,pseudoword_replacement,big,qape
+unc_nonword_00274,a nazi cat,attribute_object,uncertain,non_word,base_0274,a big cat,pseudoword_replacement,big,nazi
+unc_nonword_00275,a gamo chair,attribute_object,uncertain,non_word,base_0275,a big chair,pseudoword_replacement,big,gamo
+unc_nonword_00276,a toya table,attribute_object,uncertain,non_word,base_0276,a big table,pseudoword_replacement,big,toya
+unc_nonword_00277,a bije cup,attribute_object,uncertain,non_word,base_0277,a big cup,pseudoword_replacement,big,bije
+unc_nonword_00278,a big fikifa,attribute_object,uncertain,non_word,base_0278,a big bottle,pseudoword_replacement,bottle,fikifa
+unc_nonword_00279,a rusa bicycle,attribute_object,uncertain,non_word,base_0279,a big bicycle,pseudoword_replacement,big,rusa
+unc_nonword_00280,a tuwa car,attribute_object,uncertain,non_word,base_0280,a big car,pseudoword_replacement,big,tuwa
+unc_nonword_00281,a gira rack,attribute_object,uncertain,non_word,base_0281,a big rack,pseudoword_replacement,big,gira
+unc_nonword_00282,a big kured,attribute_object,uncertain,non_word,base_0282,a big apple,pseudoword_replacement,apple,kured
+unc_nonword_00283,a big duwuvu,attribute_object,uncertain,non_word,base_0283,a big banana,pseudoword_replacement,banana,duwuvu
+unc_nonword_00284,a qoco book,attribute_object,uncertain,non_word,base_0284,a big book,pseudoword_replacement,big,qoco
+unc_nonword_00285,a big lapap,attribute_object,uncertain,non_word,base_0285,a big phone,pseudoword_replacement,phone,lapap
+unc_nonword_00286,a zaxi laptop,attribute_object,uncertain,non_word,base_0286,a big laptop,pseudoword_replacement,big,zaxi
+unc_nonword_00287,a ciwi camera,attribute_object,uncertain,non_word,base_0287,a big camera,pseudoword_replacement,big,ciwi
+unc_nonword_00288,a soze backpack,attribute_object,uncertain,non_word,base_0288,a big backpack,pseudoword_replacement,big,soze
+unc_nonword_00289,a doci television,attribute_object,uncertain,non_word,base_0289,a big television,pseudoword_replacement,big,doci
+unc_nonword_00290,an ceci dog,attribute_object,uncertain,non_word,base_0290,an old dog,pseudoword_replacement,old,ceci
+unc_nonword_00291,an old vowo,attribute_object,uncertain,non_word,base_0291,an old cat,pseudoword_replacement,cat,vowo
+unc_nonword_00292,an old cemic,attribute_object,uncertain,non_word,base_0292,an old chair,pseudoword_replacement,chair,cemic
+unc_nonword_00293,an old lapoq,attribute_object,uncertain,non_word,base_0293,an old table,pseudoword_replacement,table,lapoq
+unc_nonword_00294,an old qiho,attribute_object,uncertain,non_word,base_0294,an old cup,pseudoword_replacement,cup,qiho
+unc_nonword_00295,an old pulara,attribute_object,uncertain,non_word,base_0295,an old bottle,pseudoword_replacement,bottle,pulara
+unc_nonword_00296,an old yewinad,attribute_object,uncertain,non_word,base_0296,an old bicycle,pseudoword_replacement,bicycle,yewinad
+unc_nonword_00297,an old misu,attribute_object,uncertain,non_word,base_0297,an old car,pseudoword_replacement,car,misu
+unc_nonword_00298,an old hopo,attribute_object,uncertain,non_word,base_0298,an old rack,pseudoword_replacement,rack,hopo
+unc_nonword_00299,an puri apple,attribute_object,uncertain,non_word,base_0299,an old apple,pseudoword_replacement,old,puri
+unc_nonword_00300,an dopu banana,attribute_object,uncertain,non_word,base_0300,an old banana,pseudoword_replacement,old,dopu
+unc_nonword_00301,an beyo book,attribute_object,uncertain,non_word,base_0301,an old book,pseudoword_replacement,old,beyo
+unc_nonword_00302,an gaki phone,attribute_object,uncertain,non_word,base_0302,an old phone,pseudoword_replacement,old,gaki
+unc_nonword_00303,an old qucugo,attribute_object,uncertain,non_word,base_0303,an old laptop,pseudoword_replacement,laptop,qucugo
+unc_nonword_00304,an old podugu,attribute_object,uncertain,non_word,base_0304,an old camera,pseudoword_replacement,camera,podugu
+unc_nonword_00305,an old qizikabe,attribute_object,uncertain,non_word,base_0305,an old backpack,pseudoword_replacement,backpack,qizikabe
+unc_nonword_00306,an old vowaliseyi,attribute_object,uncertain,non_word,base_0306,an old television,pseudoword_replacement,television,vowaliseyi
+unc_nonword_00307,a new jaga,attribute_object,uncertain,non_word,base_0307,a new dog,pseudoword_replacement,dog,jaga
+unc_nonword_00308,a new hodi,attribute_object,uncertain,non_word,base_0308,a new cat,pseudoword_replacement,cat,hodi
+unc_nonword_00309,a new duwim,attribute_object,uncertain,non_word,base_0309,a new chair,pseudoword_replacement,chair,duwim
+unc_nonword_00310,a zepu table,attribute_object,uncertain,non_word,base_0310,a new table,pseudoword_replacement,new,zepu
+unc_nonword_00311,a fege cup,attribute_object,uncertain,non_word,base_0311,a new cup,pseudoword_replacement,new,fege
+unc_nonword_00312,a new biwupo,attribute_object,uncertain,non_word,base_0312,a new bottle,pseudoword_replacement,bottle,biwupo
+unc_nonword_00313,a yadi bicycle,attribute_object,uncertain,non_word,base_0313,a new bicycle,pseudoword_replacement,new,yadi
+unc_nonword_00314,a new turo,attribute_object,uncertain,non_word,base_0314,a new car,pseudoword_replacement,car,turo
+unc_nonword_00315,a giza rack,attribute_object,uncertain,non_word,base_0315,a new rack,pseudoword_replacement,new,giza
+unc_nonword_00316,a new supew,attribute_object,uncertain,non_word,base_0316,a new apple,pseudoword_replacement,apple,supew
+unc_nonword_00317,a gova banana,attribute_object,uncertain,non_word,base_0317,a new banana,pseudoword_replacement,new,gova
+unc_nonword_00318,a veme book,attribute_object,uncertain,non_word,base_0318,a new book,pseudoword_replacement,new,veme
+unc_nonword_00319,a nepu phone,attribute_object,uncertain,non_word,base_0319,a new phone,pseudoword_replacement,new,nepu
+unc_nonword_00320,a new dijule,attribute_object,uncertain,non_word,base_0320,a new laptop,pseudoword_replacement,laptop,dijule
+unc_nonword_00321,a new yuduze,attribute_object,uncertain,non_word,base_0321,a new camera,pseudoword_replacement,camera,yuduze
+unc_nonword_00322,a huyi backpack,attribute_object,uncertain,non_word,base_0322,a new backpack,pseudoword_replacement,new,huyi
+unc_nonword_00323,a bacu television,attribute_object,uncertain,non_word,base_0323,a new television,pseudoword_replacement,new,bacu
+unc_nonword_00324,a wooden zexo,attribute_object,uncertain,non_word,base_0324,a wooden dog,pseudoword_replacement,dog,zexo
+unc_nonword_00325,a tumite cat,attribute_object,uncertain,non_word,base_0325,a wooden cat,pseudoword_replacement,wooden,tumite
+unc_nonword_00326,a wooden modah,attribute_object,uncertain,non_word,base_0326,a wooden chair,pseudoword_replacement,chair,modah
+unc_nonword_00327,a wooden rosen,attribute_object,uncertain,non_word,base_0327,a wooden table,pseudoword_replacement,table,rosen
+unc_nonword_00328,a nipogi cup,attribute_object,uncertain,non_word,base_0328,a wooden cup,pseudoword_replacement,wooden,nipogi
+unc_nonword_00329,a nesalo bottle,attribute_object,uncertain,non_word,base_0329,a wooden bottle,pseudoword_replacement,wooden,nesalo
+unc_nonword_00330,a gaciqu bicycle,attribute_object,uncertain,non_word,base_0330,a wooden bicycle,pseudoword_replacement,wooden,gaciqu
+unc_nonword_00331,a wooden kenu,attribute_object,uncertain,non_word,base_0331,a wooden car,pseudoword_replacement,car,kenu
+unc_nonword_00332,a wooden jetu,attribute_object,uncertain,non_word,base_0332,a wooden rack,pseudoword_replacement,rack,jetu
+unc_nonword_00333,a wooden titad,attribute_object,uncertain,non_word,base_0333,a wooden apple,pseudoword_replacement,apple,titad
+unc_nonword_00334,a wooden vokexi,attribute_object,uncertain,non_word,base_0334,a wooden banana,pseudoword_replacement,banana,vokexi
+unc_nonword_00335,a cituzo book,attribute_object,uncertain,non_word,base_0335,a wooden book,pseudoword_replacement,wooden,cituzo
+unc_nonword_00336,a wooden wafog,attribute_object,uncertain,non_word,base_0336,a wooden phone,pseudoword_replacement,phone,wafog
+unc_nonword_00337,a wooden popaqa,attribute_object,uncertain,non_word,base_0337,a wooden laptop,pseudoword_replacement,laptop,popaqa
+unc_nonword_00338,a pumaqu camera,attribute_object,uncertain,non_word,base_0338,a wooden camera,pseudoword_replacement,wooden,pumaqu
+unc_nonword_00339,a wooden wiyufefo,attribute_object,uncertain,non_word,base_0339,a wooden backpack,pseudoword_replacement,backpack,wiyufefo
+unc_nonword_00340,a wooden nupejuvova,attribute_object,uncertain,non_word,base_0340,a wooden television,pseudoword_replacement,television,nupejuvova
+unc_nonword_00341,a cenovog dog,attribute_object,uncertain,non_word,base_0341,a plastic dog,pseudoword_replacement,plastic,cenovog
+unc_nonword_00342,a nunequm cat,attribute_object,uncertain,non_word,base_0342,a plastic cat,pseudoword_replacement,plastic,nunequm
+unc_nonword_00343,a plastic vuwox,attribute_object,uncertain,non_word,base_0343,a plastic chair,pseudoword_replacement,chair,vuwox
+unc_nonword_00344,a plastic tapif,attribute_object,uncertain,non_word,base_0344,a plastic table,pseudoword_replacement,table,tapif
+unc_nonword_00345,a plastic xiza,attribute_object,uncertain,non_word,base_0345,a plastic cup,pseudoword_replacement,cup,xiza
+unc_nonword_00346,a plastic luxecu,attribute_object,uncertain,non_word,base_0346,a plastic bottle,pseudoword_replacement,bottle,luxecu
+unc_nonword_00347,a plastic huzuqek,attribute_object,uncertain,non_word,base_0347,a plastic bicycle,pseudoword_replacement,bicycle,huzuqek
+unc_nonword_00348,a xajasir car,attribute_object,uncertain,non_word,base_0348,a plastic car,pseudoword_replacement,plastic,xajasir
+unc_nonword_00349,a reruyoc rack,attribute_object,uncertain,non_word,base_0349,a plastic rack,pseudoword_replacement,plastic,reruyoc
+unc_nonword_00350,a vewituq apple,attribute_object,uncertain,non_word,base_0350,a plastic apple,pseudoword_replacement,plastic,vewituq
+unc_nonword_00351,a plastic howiwi,attribute_object,uncertain,non_word,base_0351,a plastic banana,pseudoword_replacement,banana,howiwi
+unc_nonword_00352,a plastic yoje,attribute_object,uncertain,non_word,base_0352,a plastic book,pseudoword_replacement,book,yoje
+unc_nonword_00353,a plastic wikim,attribute_object,uncertain,non_word,base_0353,a plastic phone,pseudoword_replacement,phone,wikim
+unc_nonword_00354,a titiwim laptop,attribute_object,uncertain,non_word,base_0354,a plastic laptop,pseudoword_replacement,plastic,titiwim
+unc_nonword_00355,a xuqopem camera,attribute_object,uncertain,non_word,base_0355,a plastic camera,pseudoword_replacement,plastic,xuqopem
+unc_nonword_00356,a mapozit backpack,attribute_object,uncertain,non_word,base_0356,a plastic backpack,pseudoword_replacement,plastic,mapozit
+unc_nonword_00357,a jululef television,attribute_object,uncertain,non_word,base_0357,a plastic television,pseudoword_replacement,plastic,jululef
+unc_nonword_00358,a kavez dog,attribute_object,uncertain,non_word,base_0358,a glass dog,pseudoword_replacement,glass,kavez
+unc_nonword_00359,a carit cat,attribute_object,uncertain,non_word,base_0359,a glass cat,pseudoword_replacement,glass,carit
+unc_nonword_00360,a gawer chair,attribute_object,uncertain,non_word,base_0360,a glass chair,pseudoword_replacement,glass,gawer
+unc_nonword_00361,a glass temim,attribute_object,uncertain,non_word,base_0361,a glass table,pseudoword_replacement,table,temim
+unc_nonword_00362,a dukuc cup,attribute_object,uncertain,non_word,base_0362,a glass cup,pseudoword_replacement,glass,dukuc
+unc_nonword_00363,a recot bottle,attribute_object,uncertain,non_word,base_0363,a glass bottle,pseudoword_replacement,glass,recot
+unc_nonword_00364,a mabix bicycle,attribute_object,uncertain,non_word,base_0364,a glass bicycle,pseudoword_replacement,glass,mabix
+unc_nonword_00365,a nisuv car,attribute_object,uncertain,non_word,base_0365,a glass car,pseudoword_replacement,glass,nisuv
+unc_nonword_00366,a glass gusi,attribute_object,uncertain,non_word,base_0366,a glass rack,pseudoword_replacement,rack,gusi
+unc_nonword_00367,a fihoz apple,attribute_object,uncertain,non_word,base_0367,a glass apple,pseudoword_replacement,glass,fihoz
+unc_nonword_00368,a glass hanixe,attribute_object,uncertain,non_word,base_0368,a glass banana,pseudoword_replacement,banana,hanixe
+unc_nonword_00369,a yorun book,attribute_object,uncertain,non_word,base_0369,a glass book,pseudoword_replacement,glass,yorun
+unc_nonword_00370,a qahet phone,attribute_object,uncertain,non_word,base_0370,a glass phone,pseudoword_replacement,glass,qahet
+unc_nonword_00371,a glass kaloko,attribute_object,uncertain,non_word,base_0371,a glass laptop,pseudoword_replacement,laptop,kaloko
+unc_nonword_00372,a glass nixubi,attribute_object,uncertain,non_word,base_0372,a glass camera,pseudoword_replacement,camera,nixubi
+unc_nonword_00373,a glass kafomequ,attribute_object,uncertain,non_word,base_0373,a glass backpack,pseudoword_replacement,backpack,kafomequ
+unc_nonword_00374,a glass fipukegogo,attribute_object,uncertain,non_word,base_0374,a glass television,pseudoword_replacement,television,fipukegogo
+unc_nonword_00375,a stone rutu,attribute_object,uncertain,non_word,base_0375,a stone dog,pseudoword_replacement,dog,rutu
+unc_nonword_00376,a kudus cat,attribute_object,uncertain,non_word,base_0376,a stone cat,pseudoword_replacement,stone,kudus
+unc_nonword_00377,a stone dufaw,attribute_object,uncertain,non_word,base_0377,a stone chair,pseudoword_replacement,chair,dufaw
+unc_nonword_00378,a xugen table,attribute_object,uncertain,non_word,base_0378,a stone table,pseudoword_replacement,stone,xugen
+unc_nonword_00379,a stone fexo,attribute_object,uncertain,non_word,base_0379,a stone cup,pseudoword_replacement,cup,fexo
+unc_nonword_00380,a vocog bottle,attribute_object,uncertain,non_word,base_0380,a stone bottle,pseudoword_replacement,stone,vocog
+unc_nonword_00381,a stone sucusib,attribute_object,uncertain,non_word,base_0381,a stone bicycle,pseudoword_replacement,bicycle,sucusib
+unc_nonword_00382,a stone laju,attribute_object,uncertain,non_word,base_0382,a stone car,pseudoword_replacement,car,laju
+unc_nonword_00383,a copaw rack,attribute_object,uncertain,non_word,base_0383,a stone rack,pseudoword_replacement,stone,copaw
+unc_nonword_00384,a docir apple,attribute_object,uncertain,non_word,base_0384,a stone apple,pseudoword_replacement,stone,docir
+unc_nonword_00385,a gopos banana,attribute_object,uncertain,non_word,base_0385,a stone banana,pseudoword_replacement,stone,gopos
+unc_nonword_00386,a stone qawe,attribute_object,uncertain,non_word,base_0386,a stone book,pseudoword_replacement,book,qawe
+unc_nonword_00387,a stone fewov,attribute_object,uncertain,non_word,base_0387,a stone phone,pseudoword_replacement,phone,fewov
+unc_nonword_00388,a kabis laptop,attribute_object,uncertain,non_word,base_0388,a stone laptop,pseudoword_replacement,stone,kabis
+unc_nonword_00389,a stone wokesi,attribute_object,uncertain,non_word,base_0389,a stone camera,pseudoword_replacement,camera,wokesi
+unc_nonword_00390,a lefar backpack,attribute_object,uncertain,non_word,base_0390,a stone backpack,pseudoword_replacement,stone,lefar
+unc_nonword_00391,a keday television,attribute_object,uncertain,non_word,base_0391,a stone television,pseudoword_replacement,stone,keday
+unc_nonword_00392,a sucec dog,attribute_object,uncertain,non_word,base_0392,a metal dog,pseudoword_replacement,metal,sucec
+unc_nonword_00393,a metal sewe,attribute_object,uncertain,non_word,base_0393,a metal cat,pseudoword_replacement,cat,sewe
+unc_nonword_00394,a gumex chair,attribute_object,uncertain,non_word,base_0394,a metal chair,pseudoword_replacement,metal,gumex
+unc_nonword_00395,a metal xunem,attribute_object,uncertain,non_word,base_0395,a metal table,pseudoword_replacement,table,xunem
+unc_nonword_00396,a veril cup,attribute_object,uncertain,non_word,base_0396,a metal cup,pseudoword_replacement,metal,veril
+unc_nonword_00397,a wuhow bottle,attribute_object,uncertain,non_word,base_0397,a metal bottle,pseudoword_replacement,metal,wuhow
+unc_nonword_00398,a metal cizovir,attribute_object,uncertain,non_word,base_0398,a metal bicycle,pseudoword_replacement,bicycle,cizovir
+unc_nonword_00399,a metal giqe,attribute_object,uncertain,non_word,base_0399,a metal car,pseudoword_replacement,car,giqe
+unc_nonword_00400,a metal keme,attribute_object,uncertain,non_word,base_0400,a metal rack,pseudoword_replacement,rack,keme
+unc_nonword_00401,a metal curow,attribute_object,uncertain,non_word,base_0401,a metal apple,pseudoword_replacement,apple,curow
+unc_nonword_00402,a qelen banana,attribute_object,uncertain,non_word,base_0402,a metal banana,pseudoword_replacement,metal,qelen
+unc_nonword_00403,a siduj book,attribute_object,uncertain,non_word,base_0403,a metal book,pseudoword_replacement,metal,siduj
+unc_nonword_00404,a loyuc phone,attribute_object,uncertain,non_word,base_0404,a metal phone,pseudoword_replacement,metal,loyuc
+unc_nonword_00405,a juwet laptop,attribute_object,uncertain,non_word,base_0405,a metal laptop,pseudoword_replacement,metal,juwet
+unc_nonword_00406,a nibej camera,attribute_object,uncertain,non_word,base_0406,a metal camera,pseudoword_replacement,metal,nibej
+unc_nonword_00407,a teyeq backpack,attribute_object,uncertain,non_word,base_0407,a metal backpack,pseudoword_replacement,metal,teyeq
+unc_nonword_00408,a wimos television,attribute_object,uncertain,non_word,base_0408,a metal television,pseudoword_replacement,metal,wimos
+unc_nonword_00409,a shiny mipu,attribute_object,uncertain,non_word,base_0409,a shiny dog,pseudoword_replacement,dog,mipu
+unc_nonword_00410,a shiny sati,attribute_object,uncertain,non_word,base_0410,a shiny cat,pseudoword_replacement,cat,sati
+unc_nonword_00411,a pirax chair,attribute_object,uncertain,non_word,base_0411,a shiny chair,pseudoword_replacement,shiny,pirax
+unc_nonword_00412,a galux table,attribute_object,uncertain,non_word,base_0412,a shiny table,pseudoword_replacement,shiny,galux
+unc_nonword_00413,a shiny meji,attribute_object,uncertain,non_word,base_0413,a shiny cup,pseudoword_replacement,cup,meji
+unc_nonword_00414,a qukow bottle,attribute_object,uncertain,non_word,base_0414,a shiny bottle,pseudoword_replacement,shiny,qukow
+unc_nonword_00415,a shiny lozosep,attribute_object,uncertain,non_word,base_0415,a shiny bicycle,pseudoword_replacement,bicycle,lozosep
+unc_nonword_00416,a gutew car,attribute_object,uncertain,non_word,base_0416,a shiny car,pseudoword_replacement,shiny,gutew
+unc_nonword_00417,a vadab rack,attribute_object,uncertain,non_word,base_0417,a shiny rack,pseudoword_replacement,shiny,vadab
+unc_nonword_00418,a shiny gedeb,attribute_object,uncertain,non_word,base_0418,a shiny apple,pseudoword_replacement,apple,gedeb
+unc_nonword_00419,a vopay banana,attribute_object,uncertain,non_word,base_0419,a shiny banana,pseudoword_replacement,shiny,vopay
+unc_nonword_00420,a shiny tabu,attribute_object,uncertain,non_word,base_0420,a shiny book,pseudoword_replacement,book,tabu
+unc_nonword_00421,a shiny baviw,attribute_object,uncertain,non_word,base_0421,a shiny phone,pseudoword_replacement,phone,baviw
+unc_nonword_00422,a shiny burefa,attribute_object,uncertain,non_word,base_0422,a shiny laptop,pseudoword_replacement,laptop,burefa
+unc_nonword_00423,a keyul camera,attribute_object,uncertain,non_word,base_0423,a shiny camera,pseudoword_replacement,shiny,keyul
+unc_nonword_00424,a shiny lodiqoxe,attribute_object,uncertain,non_word,base_0424,a shiny backpack,pseudoword_replacement,backpack,lodiqoxe
+unc_nonword_00425,a mazad television,attribute_object,uncertain,non_word,base_0425,a shiny television,pseudoword_replacement,shiny,mazad
+unc_nonword_00426,a dirty qowo,attribute_object,uncertain,non_word,base_0426,a dirty dog,pseudoword_replacement,dog,qowo
+unc_nonword_00427,a zahat cat,attribute_object,uncertain,non_word,base_0427,a dirty cat,pseudoword_replacement,dirty,zahat
+unc_nonword_00428,a dirty zixav,attribute_object,uncertain,non_word,base_0428,a dirty chair,pseudoword_replacement,chair,zixav
+unc_nonword_00429,a kexol table,attribute_object,uncertain,non_word,base_0429,a dirty table,pseudoword_replacement,dirty,kexol
+unc_nonword_00430,a diwuc cup,attribute_object,uncertain,non_word,base_0430,a dirty cup,pseudoword_replacement,dirty,diwuc
+unc_nonword_00431,a najug bottle,attribute_object,uncertain,non_word,base_0431,a dirty bottle,pseudoword_replacement,dirty,najug
+unc_nonword_00432,a dirty dihukuq,attribute_object,uncertain,non_word,base_0432,a dirty bicycle,pseudoword_replacement,bicycle,dihukuq
+unc_nonword_00433,a dirty qedu,attribute_object,uncertain,non_word,base_0433,a dirty car,pseudoword_replacement,car,qedu
+unc_nonword_00434,a dirty care,attribute_object,uncertain,non_word,base_0434,a dirty rack,pseudoword_replacement,rack,care
+unc_nonword_00435,a nuyuq apple,attribute_object,uncertain,non_word,base_0435,a dirty apple,pseudoword_replacement,dirty,nuyuq
+unc_nonword_00436,a dirty bisoki,attribute_object,uncertain,non_word,base_0436,a dirty banana,pseudoword_replacement,banana,bisoki
+unc_nonword_00437,a dirty rexo,attribute_object,uncertain,non_word,base_0437,a dirty book,pseudoword_replacement,book,rexo
+unc_nonword_00438,a yikad phone,attribute_object,uncertain,non_word,base_0438,a dirty phone,pseudoword_replacement,dirty,yikad
+unc_nonword_00439,a dirty gozeqi,attribute_object,uncertain,non_word,base_0439,a dirty laptop,pseudoword_replacement,laptop,gozeqi
+unc_nonword_00440,a dirty fabisi,attribute_object,uncertain,non_word,base_0440,a dirty camera,pseudoword_replacement,camera,fabisi
+unc_nonword_00441,a dirty federowu,attribute_object,uncertain,non_word,base_0441,a dirty backpack,pseudoword_replacement,backpack,federowu
+unc_nonword_00442,a dirty fadiwayuno,attribute_object,uncertain,non_word,base_0442,a dirty television,pseudoword_replacement,television,fadiwayuno
+unc_nonword_00443,a moqaw dog,attribute_object,uncertain,non_word,base_0443,a clean dog,pseudoword_replacement,clean,moqaw
+unc_nonword_00444,a xuhoh cat,attribute_object,uncertain,non_word,base_0444,a clean cat,pseudoword_replacement,clean,xuhoh
+unc_nonword_00445,a lilog chair,attribute_object,uncertain,non_word,base_0445,a clean chair,pseudoword_replacement,clean,lilog
+unc_nonword_00446,a holom table,attribute_object,uncertain,non_word,base_0446,a clean table,pseudoword_replacement,clean,holom
+unc_nonword_00447,a clean dile,attribute_object,uncertain,non_word,base_0447,a clean cup,pseudoword_replacement,cup,dile
+unc_nonword_00448,a clean yujofe,attribute_object,uncertain,non_word,base_0448,a clean bottle,pseudoword_replacement,bottle,yujofe
+unc_nonword_00449,a clean bonuqis,attribute_object,uncertain,non_word,base_0449,a clean bicycle,pseudoword_replacement,bicycle,bonuqis
+unc_nonword_00450,a clean rugi,attribute_object,uncertain,non_word,base_0450,a clean car,pseudoword_replacement,car,rugi
+unc_nonword_00451,a clean yeti,attribute_object,uncertain,non_word,base_0451,a clean rack,pseudoword_replacement,rack,yeti
+unc_nonword_00452,a qimox apple,attribute_object,uncertain,non_word,base_0452,a clean apple,pseudoword_replacement,clean,qimox
+unc_nonword_00453,a nolop banana,attribute_object,uncertain,non_word,base_0453,a clean banana,pseudoword_replacement,clean,nolop
+unc_nonword_00454,a xexuh book,attribute_object,uncertain,non_word,base_0454,a clean book,pseudoword_replacement,clean,xexuh
+unc_nonword_00455,a sesid phone,attribute_object,uncertain,non_word,base_0455,a clean phone,pseudoword_replacement,clean,sesid
+unc_nonword_00456,a clean teziki,attribute_object,uncertain,non_word,base_0456,a clean laptop,pseudoword_replacement,laptop,teziki
+unc_nonword_00457,a rodoy camera,attribute_object,uncertain,non_word,base_0457,a clean camera,pseudoword_replacement,clean,rodoy
+unc_nonword_00458,a clean xowuruci,attribute_object,uncertain,non_word,base_0458,a clean backpack,pseudoword_replacement,backpack,xowuruci
+unc_nonword_00459,a fepez television,attribute_object,uncertain,non_word,base_0459,a clean television,pseudoword_replacement,clean,fepez
+unc_nonword_00460,a xono dog,attribute_object,uncertain,non_word,base_0460,a wet dog,pseudoword_replacement,wet,xono
+unc_nonword_00461,a bale cat,attribute_object,uncertain,non_word,base_0461,a wet cat,pseudoword_replacement,wet,bale
+unc_nonword_00462,a siqo chair,attribute_object,uncertain,non_word,base_0462,a wet chair,pseudoword_replacement,wet,siqo
+unc_nonword_00463,a pata table,attribute_object,uncertain,non_word,base_0463,a wet table,pseudoword_replacement,wet,pata
+unc_nonword_00464,a wet rafe,attribute_object,uncertain,non_word,base_0464,a wet cup,pseudoword_replacement,cup,rafe
+unc_nonword_00465,a wet misevo,attribute_object,uncertain,non_word,base_0465,a wet bottle,pseudoword_replacement,bottle,misevo
+unc_nonword_00466,a wet tasonam,attribute_object,uncertain,non_word,base_0466,a wet bicycle,pseudoword_replacement,bicycle,tasonam
+unc_nonword_00467,a fana car,attribute_object,uncertain,non_word,base_0467,a wet car,pseudoword_replacement,wet,fana
+unc_nonword_00468,a kuhu rack,attribute_object,uncertain,non_word,base_0468,a wet rack,pseudoword_replacement,wet,kuhu
+unc_nonword_00469,a nuro apple,attribute_object,uncertain,non_word,base_0469,a wet apple,pseudoword_replacement,wet,nuro
+unc_nonword_00470,a qeho banana,attribute_object,uncertain,non_word,base_0470,a wet banana,pseudoword_replacement,wet,qeho
+unc_nonword_00471,a wet bujo,attribute_object,uncertain,non_word,base_0471,a wet book,pseudoword_replacement,book,bujo
+unc_nonword_00472,a wet qajel,attribute_object,uncertain,non_word,base_0472,a wet phone,pseudoword_replacement,phone,qajel
+unc_nonword_00473,a xawe laptop,attribute_object,uncertain,non_word,base_0473,a wet laptop,pseudoword_replacement,wet,xawe
+unc_nonword_00474,a wet nesalo,attribute_object,uncertain,non_word,base_0474,a wet camera,pseudoword_replacement,camera,nesalo
+unc_nonword_00475,a wet yoyoxapi,attribute_object,uncertain,non_word,base_0475,a wet backpack,pseudoword_replacement,backpack,yoyoxapi
+unc_nonword_00476,a wet yemuxagife,attribute_object,uncertain,non_word,base_0476,a wet television,pseudoword_replacement,television,yemuxagife
+unc_nonword_00477,a dry fepe,attribute_object,uncertain,non_word,base_0477,a dry dog,pseudoword_replacement,dog,fepe
+unc_nonword_00478,a dry rugu,attribute_object,uncertain,non_word,base_0478,a dry cat,pseudoword_replacement,cat,rugu
+unc_nonword_00479,a dry retuz,attribute_object,uncertain,non_word,base_0479,a dry chair,pseudoword_replacement,chair,retuz
+unc_nonword_00480,a weti table,attribute_object,uncertain,non_word,base_0480,a dry table,pseudoword_replacement,dry,weti
+unc_nonword_00481,a hisu cup,attribute_object,uncertain,non_word,base_0481,a dry cup,pseudoword_replacement,dry,hisu
+unc_nonword_00482,a pate bottle,attribute_object,uncertain,non_word,base_0482,a dry bottle,pseudoword_replacement,dry,pate
+unc_nonword_00483,a quvo bicycle,attribute_object,uncertain,non_word,base_0483,a dry bicycle,pseudoword_replacement,dry,quvo
+unc_nonword_00484,a dry toso,attribute_object,uncertain,non_word,base_0484,a dry car,pseudoword_replacement,car,toso
+unc_nonword_00485,a dube rack,attribute_object,uncertain,non_word,base_0485,a dry rack,pseudoword_replacement,dry,dube
+unc_nonword_00486,a dry cikum,attribute_object,uncertain,non_word,base_0486,a dry apple,pseudoword_replacement,apple,cikum
+unc_nonword_00487,a sutu banana,attribute_object,uncertain,non_word,base_0487,a dry banana,pseudoword_replacement,dry,sutu
+unc_nonword_00488,a xalu book,attribute_object,uncertain,non_word,base_0488,a dry book,pseudoword_replacement,dry,xalu
+unc_nonword_00489,a dry wasuj,attribute_object,uncertain,non_word,base_0489,a dry phone,pseudoword_replacement,phone,wasuj
+unc_nonword_00490,a dry femasi,attribute_object,uncertain,non_word,base_0490,a dry laptop,pseudoword_replacement,laptop,femasi
+unc_nonword_00491,a dry dofeju,attribute_object,uncertain,non_word,base_0491,a dry camera,pseudoword_replacement,camera,dofeju
+unc_nonword_00492,a dry yohugeja,attribute_object,uncertain,non_word,base_0492,a dry backpack,pseudoword_replacement,backpack,yohugeja
+unc_nonword_00493,a dry wiyuhimixi,attribute_object,uncertain,non_word,base_0493,a dry television,pseudoword_replacement,television,wiyuhimixi
+unc_nonword_00494,a gociz dog,attribute_object,uncertain,non_word,base_0494,a heavy dog,pseudoword_replacement,heavy,gociz
+unc_nonword_00495,a gegik cat,attribute_object,uncertain,non_word,base_0495,a heavy cat,pseudoword_replacement,heavy,gegik
+unc_nonword_00496,a heavy texiz,attribute_object,uncertain,non_word,base_0496,a heavy chair,pseudoword_replacement,chair,texiz
+unc_nonword_00497,a heavy qodaq,attribute_object,uncertain,non_word,base_0497,a heavy table,pseudoword_replacement,table,qodaq
+unc_nonword_00498,a heavy poti,attribute_object,uncertain,non_word,base_0498,a heavy cup,pseudoword_replacement,cup,poti
+unc_nonword_00499,a dozid bottle,attribute_object,uncertain,non_word,base_0499,a heavy bottle,pseudoword_replacement,heavy,dozid
+unc_nonword_00500,a heavy jojolim,attribute_object,uncertain,non_word,base_0500,a heavy bicycle,pseudoword_replacement,bicycle,jojolim
+unc_nonword_00501,a heavy wugu,attribute_object,uncertain,non_word,base_0501,a heavy car,pseudoword_replacement,car,wugu
+unc_nonword_00502,a heavy naca,attribute_object,uncertain,non_word,base_0502,a heavy rack,pseudoword_replacement,rack,naca
+unc_nonword_00503,a heavy bahos,attribute_object,uncertain,non_word,base_0503,a heavy apple,pseudoword_replacement,apple,bahos
+unc_nonword_00504,a regih banana,attribute_object,uncertain,non_word,base_0504,a heavy banana,pseudoword_replacement,heavy,regih
+unc_nonword_00505,a heavy dila,attribute_object,uncertain,non_word,base_0505,a heavy book,pseudoword_replacement,book,dila
+unc_nonword_00506,a heavy zecoz,attribute_object,uncertain,non_word,base_0506,a heavy phone,pseudoword_replacement,phone,zecoz
+unc_nonword_00507,a heavy kozafa,attribute_object,uncertain,non_word,base_0507,a heavy laptop,pseudoword_replacement,laptop,kozafa
+unc_nonword_00508,a taguk camera,attribute_object,uncertain,non_word,base_0508,a heavy camera,pseudoword_replacement,heavy,taguk
+unc_nonword_00509,a heavy banareta,attribute_object,uncertain,non_word,base_0509,a heavy backpack,pseudoword_replacement,backpack,banareta
+unc_nonword_00510,a qafan television,attribute_object,uncertain,non_word,base_0510,a heavy television,pseudoword_replacement,heavy,qafan
+unc_nonword_00511,a light meqe,attribute_object,uncertain,non_word,base_0511,a light dog,pseudoword_replacement,dog,meqe
+unc_nonword_00512,a duxay cat,attribute_object,uncertain,non_word,base_0512,a light cat,pseudoword_replacement,light,duxay
+unc_nonword_00513,a sijer chair,attribute_object,uncertain,non_word,base_0513,a light chair,pseudoword_replacement,light,sijer
+unc_nonword_00514,a light jafef,attribute_object,uncertain,non_word,base_0514,a light table,pseudoword_replacement,table,jafef
+unc_nonword_00515,a light pone,attribute_object,uncertain,non_word,base_0515,a light cup,pseudoword_replacement,cup,pone
+unc_nonword_00516,a lakuy bottle,attribute_object,uncertain,non_word,base_0516,a light bottle,pseudoword_replacement,light,lakuy
+unc_nonword_00517,a light bijuyuj,attribute_object,uncertain,non_word,base_0517,a light bicycle,pseudoword_replacement,bicycle,bijuyuj
+unc_nonword_00518,a light mako,attribute_object,uncertain,non_word,base_0518,a light car,pseudoword_replacement,car,mako
+unc_nonword_00519,a light fetu,attribute_object,uncertain,non_word,base_0519,a light rack,pseudoword_replacement,rack,fetu
+unc_nonword_00520,a vapig apple,attribute_object,uncertain,non_word,base_0520,a light apple,pseudoword_replacement,light,vapig
+unc_nonword_00521,a light xopuho,attribute_object,uncertain,non_word,base_0521,a light banana,pseudoword_replacement,banana,xopuho
+unc_nonword_00522,a budal book,attribute_object,uncertain,non_word,base_0522,a light book,pseudoword_replacement,light,budal
+unc_nonword_00523,a caqum phone,attribute_object,uncertain,non_word,base_0523,a light phone,pseudoword_replacement,light,caqum
+unc_nonword_00524,a light roduwu,attribute_object,uncertain,non_word,base_0524,a light laptop,pseudoword_replacement,laptop,roduwu
+unc_nonword_00525,a lamav camera,attribute_object,uncertain,non_word,base_0525,a light camera,pseudoword_replacement,light,lamav
+unc_nonword_00526,a gunox backpack,attribute_object,uncertain,non_word,base_0526,a light backpack,pseudoword_replacement,light,gunox
+unc_nonword_00527,a mokak television,attribute_object,uncertain,non_word,base_0527,a light television,pseudoword_replacement,light,mokak
+unc_nonword_00528,a rasuy dog,attribute_object,uncertain,non_word,base_0528,a round dog,pseudoword_replacement,round,rasuy
+unc_nonword_00529,a mefag cat,attribute_object,uncertain,non_word,base_0529,a round cat,pseudoword_replacement,round,mefag
+unc_nonword_00530,a hopuv chair,attribute_object,uncertain,non_word,base_0530,a round chair,pseudoword_replacement,round,hopuv
+unc_nonword_00531,a round higif,attribute_object,uncertain,non_word,base_0531,a round table,pseudoword_replacement,table,higif
+unc_nonword_00532,a nolud cup,attribute_object,uncertain,non_word,base_0532,a round cup,pseudoword_replacement,round,nolud
+unc_nonword_00533,a round xatovi,attribute_object,uncertain,non_word,base_0533,a round bottle,pseudoword_replacement,bottle,xatovi
+unc_nonword_00534,a tuhih bicycle,attribute_object,uncertain,non_word,base_0534,a round bicycle,pseudoword_replacement,round,tuhih
+unc_nonword_00535,a round fufe,attribute_object,uncertain,non_word,base_0535,a round car,pseudoword_replacement,car,fufe
+unc_nonword_00536,a cakat rack,attribute_object,uncertain,non_word,base_0536,a round rack,pseudoword_replacement,round,cakat
+unc_nonword_00537,a round qehaw,attribute_object,uncertain,non_word,base_0537,a round apple,pseudoword_replacement,apple,qehaw
+unc_nonword_00538,a round kikoni,attribute_object,uncertain,non_word,base_0538,a round banana,pseudoword_replacement,banana,kikoni
+unc_nonword_00539,a xifuc book,attribute_object,uncertain,non_word,base_0539,a round book,pseudoword_replacement,round,xifuc
+unc_nonword_00540,a kucod phone,attribute_object,uncertain,non_word,base_0540,a round phone,pseudoword_replacement,round,kucod
+unc_nonword_00541,a round minawo,attribute_object,uncertain,non_word,base_0541,a round laptop,pseudoword_replacement,laptop,minawo
+unc_nonword_00542,a pemum camera,attribute_object,uncertain,non_word,base_0542,a round camera,pseudoword_replacement,round,pemum
+unc_nonword_00543,a sixoj backpack,attribute_object,uncertain,non_word,base_0543,a round backpack,pseudoword_replacement,round,sixoj
+unc_nonword_00544,a garak television,attribute_object,uncertain,non_word,base_0544,a round television,pseudoword_replacement,round,garak
+unc_nonword_00545,a dog on a zanaq,object_on_surface,uncertain,non_word,base_0545,a dog on a table,pseudoword_replacement,table,zanaq
+unc_nonword_00546,a dog on a fever,object_on_surface,uncertain,non_word,base_0546,a dog on a floor,pseudoword_replacement,floor,fever
+unc_nonword_00547,a dog on a cela,object_on_surface,uncertain,non_word,base_0547,a dog on a desk,pseudoword_replacement,desk,cela
+unc_nonword_00548,a kuri on a shelf,object_on_surface,uncertain,non_word,base_0548,a dog on a shelf,pseudoword_replacement,dog,kuri
+unc_nonword_00549,a dog on a dufu,object_on_surface,uncertain,non_word,base_0549,a dog on a bed,pseudoword_replacement,bed,dufu
+unc_nonword_00550,a zodu on a table,object_on_surface,uncertain,non_word,base_0550,a cat on a table,pseudoword_replacement,cat,zodu
+unc_nonword_00551,a reki on a floor,object_on_surface,uncertain,non_word,base_0551,a cat on a floor,pseudoword_replacement,cat,reki
+unc_nonword_00552,a cat on a noni,object_on_surface,uncertain,non_word,base_0552,a cat on a desk,pseudoword_replacement,desk,noni
+unc_nonword_00553,a cat on a ledeg,object_on_surface,uncertain,non_word,base_0553,a cat on a shelf,pseudoword_replacement,shelf,ledeg
+unc_nonword_00554,a gaho on a bed,object_on_surface,uncertain,non_word,base_0554,a cat on a bed,pseudoword_replacement,cat,gaho
+unc_nonword_00555,a chair on a nofup,object_on_surface,uncertain,non_word,base_0555,a chair on a table,pseudoword_replacement,table,nofup
+unc_nonword_00556,a sisif on a floor,object_on_surface,uncertain,non_word,base_0556,a chair on a floor,pseudoword_replacement,chair,sisif
+unc_nonword_00557,a hiyaj on a desk,object_on_surface,uncertain,non_word,base_0557,a chair on a desk,pseudoword_replacement,chair,hiyaj
+unc_nonword_00558,a chair on a gakiq,object_on_surface,uncertain,non_word,base_0558,a chair on a shelf,pseudoword_replacement,shelf,gakiq
+unc_nonword_00559,a mihaq on a bed,object_on_surface,uncertain,non_word,base_0559,a chair on a bed,pseudoword_replacement,chair,mihaq
+unc_nonword_00560,a table on a wukas,object_on_surface,uncertain,non_word,base_0560,a table on a table,pseudoword_replacement,table,wukas
+unc_nonword_00561,a gabak on a floor,object_on_surface,uncertain,non_word,base_0561,a table on a floor,pseudoword_replacement,table,gabak
+unc_nonword_00562,a jopax on a desk,object_on_surface,uncertain,non_word,base_0562,a table on a desk,pseudoword_replacement,table,jopax
+unc_nonword_00563,a table on a dadez,object_on_surface,uncertain,non_word,base_0563,a table on a shelf,pseudoword_replacement,shelf,dadez
+unc_nonword_00564,a table on a gana,object_on_surface,uncertain,non_word,base_0564,a table on a bed,pseudoword_replacement,bed,gana
+unc_nonword_00565,a sahu on a table,object_on_surface,uncertain,non_word,base_0565,a cup on a table,pseudoword_replacement,cup,sahu
+unc_nonword_00566,a cup on a qobor,object_on_surface,uncertain,non_word,base_0566,a cup on a floor,pseudoword_replacement,floor,qobor
+unc_nonword_00567,a pehi on a desk,object_on_surface,uncertain,non_word,base_0567,a cup on a desk,pseudoword_replacement,cup,pehi
+unc_nonword_00568,a cup on a secuy,object_on_surface,uncertain,non_word,base_0568,a cup on a shelf,pseudoword_replacement,shelf,secuy
+unc_nonword_00569,a zito on a bed,object_on_surface,uncertain,non_word,base_0569,a cup on a bed,pseudoword_replacement,cup,zito
+unc_nonword_00570,a bottle on a calog,object_on_surface,uncertain,non_word,base_0570,a bottle on a table,pseudoword_replacement,table,calog
+unc_nonword_00571,a bottle on a jukub,object_on_surface,uncertain,non_word,base_0571,a bottle on a floor,pseudoword_replacement,floor,jukub
+unc_nonword_00572,a bottle on a powo,object_on_surface,uncertain,non_word,base_0572,a bottle on a desk,pseudoword_replacement,desk,powo
+unc_nonword_00573,a bottle on a xunol,object_on_surface,uncertain,non_word,base_0573,a bottle on a shelf,pseudoword_replacement,shelf,xunol
+unc_nonword_00574,a biyebi on a bed,object_on_surface,uncertain,non_word,base_0574,a bottle on a bed,pseudoword_replacement,bottle,biyebi
+unc_nonword_00575,a tupukef on a table,object_on_surface,uncertain,non_word,base_0575,a bicycle on a table,pseudoword_replacement,bicycle,tupukef
+unc_nonword_00576,a kiwakuq on a floor,object_on_surface,uncertain,non_word,base_0576,a bicycle on a floor,pseudoword_replacement,bicycle,kiwakuq
+unc_nonword_00577,a bicycle on a heku,object_on_surface,uncertain,non_word,base_0577,a bicycle on a desk,pseudoword_replacement,desk,heku
+unc_nonword_00578,a bicycle on a pubix,object_on_surface,uncertain,non_word,base_0578,a bicycle on a shelf,pseudoword_replacement,shelf,pubix
+unc_nonword_00579,a xetumet on a bed,object_on_surface,uncertain,non_word,base_0579,a bicycle on a bed,pseudoword_replacement,bicycle,xetumet
+unc_nonword_00580,a daku on a table,object_on_surface,uncertain,non_word,base_0580,a car on a table,pseudoword_replacement,car,daku
+unc_nonword_00581,a buta on a floor,object_on_surface,uncertain,non_word,base_0581,a car on a floor,pseudoword_replacement,car,buta
+unc_nonword_00582,a car on a yegi,object_on_surface,uncertain,non_word,base_0582,a car on a desk,pseudoword_replacement,desk,yegi
+unc_nonword_00583,a nabe on a shelf,object_on_surface,uncertain,non_word,base_0583,a car on a shelf,pseudoword_replacement,car,nabe
+unc_nonword_00584,a fupa on a bed,object_on_surface,uncertain,non_word,base_0584,a car on a bed,pseudoword_replacement,car,fupa
+unc_nonword_00585,a rack on a qufim,object_on_surface,uncertain,non_word,base_0585,a rack on a table,pseudoword_replacement,table,qufim
+unc_nonword_00586,a rack on a geroz,object_on_surface,uncertain,non_word,base_0586,a rack on a floor,pseudoword_replacement,floor,geroz
+unc_nonword_00587,a rack on a huyi,object_on_surface,uncertain,non_word,base_0587,a rack on a desk,pseudoword_replacement,desk,huyi
+unc_nonword_00588,a xeqi on a shelf,object_on_surface,uncertain,non_word,base_0588,a rack on a shelf,pseudoword_replacement,rack,xeqi
+unc_nonword_00589,a rack on a gebu,object_on_surface,uncertain,non_word,base_0589,a rack on a bed,pseudoword_replacement,bed,gebu
+unc_nonword_00590,an apple on a xahun,object_on_surface,uncertain,non_word,base_0590,an apple on a table,pseudoword_replacement,table,xahun
+unc_nonword_00591,an zufog on a floor,object_on_surface,uncertain,non_word,base_0591,an apple on a floor,pseudoword_replacement,apple,zufog
+unc_nonword_00592,an apple on a depi,object_on_surface,uncertain,non_word,base_0592,an apple on a desk,pseudoword_replacement,desk,depi
+unc_nonword_00593,an zazis on a shelf,object_on_surface,uncertain,non_word,base_0593,an apple on a shelf,pseudoword_replacement,apple,zazis
+unc_nonword_00594,an lekap on a bed,object_on_surface,uncertain,non_word,base_0594,an apple on a bed,pseudoword_replacement,apple,lekap
+unc_nonword_00595,a banana on a facos,object_on_surface,uncertain,non_word,base_0595,a banana on a table,pseudoword_replacement,table,facos
+unc_nonword_00596,a banana on a hotop,object_on_surface,uncertain,non_word,base_0596,a banana on a floor,pseudoword_replacement,floor,hotop
+unc_nonword_00597,a banana on a foxe,object_on_surface,uncertain,non_word,base_0597,a banana on a desk,pseudoword_replacement,desk,foxe
+unc_nonword_00598,a sacibi on a shelf,object_on_surface,uncertain,non_word,base_0598,a banana on a shelf,pseudoword_replacement,banana,sacibi
+unc_nonword_00599,a banana on a fane,object_on_surface,uncertain,non_word,base_0599,a banana on a bed,pseudoword_replacement,bed,fane
+unc_nonword_00600,a book on a hawan,object_on_surface,uncertain,non_word,base_0600,a book on a table,pseudoword_replacement,table,hawan
+unc_nonword_00601,a book on a bozey,object_on_surface,uncertain,non_word,base_0601,a book on a floor,pseudoword_replacement,floor,bozey
+unc_nonword_00602,a book on a hafi,object_on_surface,uncertain,non_word,base_0602,a book on a desk,pseudoword_replacement,desk,hafi
+unc_nonword_00603,a jowu on a shelf,object_on_surface,uncertain,non_word,base_0603,a book on a shelf,pseudoword_replacement,book,jowu
+unc_nonword_00604,a book on a mika,object_on_surface,uncertain,non_word,base_0604,a book on a bed,pseudoword_replacement,bed,mika
+unc_nonword_00605,a quwog on a table,object_on_surface,uncertain,non_word,base_0605,a phone on a table,pseudoword_replacement,phone,quwog
+unc_nonword_00606,a param on a floor,object_on_surface,uncertain,non_word,base_0606,a phone on a floor,pseudoword_replacement,phone,param
+unc_nonword_00607,a phone on a jabe,object_on_surface,uncertain,non_word,base_0607,a phone on a desk,pseudoword_replacement,desk,jabe
+unc_nonword_00608,a zidof on a shelf,object_on_surface,uncertain,non_word,base_0608,a phone on a shelf,pseudoword_replacement,phone,zidof
+unc_nonword_00609,a phone on a qoti,object_on_surface,uncertain,non_word,base_0609,a phone on a bed,pseudoword_replacement,bed,qoti
+unc_nonword_00610,a zuqepo on a table,object_on_surface,uncertain,non_word,base_0610,a laptop on a table,pseudoword_replacement,laptop,zuqepo
+unc_nonword_00611,a laptop on a hocis,object_on_surface,uncertain,non_word,base_0611,a laptop on a floor,pseudoword_replacement,floor,hocis
+unc_nonword_00612,a laptop on a lelu,object_on_surface,uncertain,non_word,base_0612,a laptop on a desk,pseudoword_replacement,desk,lelu
+unc_nonword_00613,a gadiwo on a shelf,object_on_surface,uncertain,non_word,base_0613,a laptop on a shelf,pseudoword_replacement,laptop,gadiwo
+unc_nonword_00614,a waquru on a bed,object_on_surface,uncertain,non_word,base_0614,a laptop on a bed,pseudoword_replacement,laptop,waquru
+unc_nonword_00615,a camera on a xetid,object_on_surface,uncertain,non_word,base_0615,a camera on a table,pseudoword_replacement,table,xetid
+unc_nonword_00616,a camera on a cuxux,object_on_surface,uncertain,non_word,base_0616,a camera on a floor,pseudoword_replacement,floor,cuxux
+unc_nonword_00617,a foheje on a desk,object_on_surface,uncertain,non_word,base_0617,a camera on a desk,pseudoword_replacement,camera,foheje
+unc_nonword_00618,a codoje on a shelf,object_on_surface,uncertain,non_word,base_0618,a camera on a shelf,pseudoword_replacement,camera,codoje
+unc_nonword_00619,a camera on a nado,object_on_surface,uncertain,non_word,base_0619,a camera on a bed,pseudoword_replacement,bed,nado
+unc_nonword_00620,a backpack on a wilus,object_on_surface,uncertain,non_word,base_0620,a backpack on a table,pseudoword_replacement,table,wilus
+unc_nonword_00621,a yuvofoge on a floor,object_on_surface,uncertain,non_word,base_0621,a backpack on a floor,pseudoword_replacement,backpack,yuvofoge
+unc_nonword_00622,a fufiwiri on a desk,object_on_surface,uncertain,non_word,base_0622,a backpack on a desk,pseudoword_replacement,backpack,fufiwiri
+unc_nonword_00623,a backpack on a zoxut,object_on_surface,uncertain,non_word,base_0623,a backpack on a shelf,pseudoword_replacement,shelf,zoxut
+unc_nonword_00624,a hiqeyuqa on a bed,object_on_surface,uncertain,non_word,base_0624,a backpack on a bed,pseudoword_replacement,backpack,hiqeyuqa
+unc_nonword_00625,a television on a necol,object_on_surface,uncertain,non_word,base_0625,a television on a table,pseudoword_replacement,table,necol
+unc_nonword_00626,a television on a bimil,object_on_surface,uncertain,non_word,base_0626,a television on a floor,pseudoword_replacement,floor,bimil
+unc_nonword_00627,a television on a fegi,object_on_surface,uncertain,non_word,base_0627,a television on a desk,pseudoword_replacement,desk,fegi
+unc_nonword_00628,a television on a niruz,object_on_surface,uncertain,non_word,base_0628,a television on a shelf,pseudoword_replacement,shelf,niruz
+unc_nonword_00629,a jojotupave on a bed,object_on_surface,uncertain,non_word,base_0629,a television on a bed,pseudoword_replacement,television,jojotupave
+unc_nonword_00630,two muqe in a room,two_objects_in_place,uncertain,non_word,base_0630,two dogs in a room,pseudoword_replacement,dogs,muqe
+unc_nonword_00631,two heja in a street,two_objects_in_place,uncertain,non_word,base_0631,two dogs in a street,pseudoword_replacement,dogs,heja
+unc_nonword_00632,two coci in a park,two_objects_in_place,uncertain,non_word,base_0632,two dogs in a park,pseudoword_replacement,dogs,coci
+unc_nonword_00633,two lisu in a kitchen,two_objects_in_place,uncertain,non_word,base_0633,two dogs in a kitchen,pseudoword_replacement,dogs,lisu
+unc_nonword_00634,two dogs in a zabep,two_objects_in_place,uncertain,non_word,base_0634,two dogs in a beach,pseudoword_replacement,beach,zabep
+unc_nonword_00635,two dogs in an yohoxu,two_objects_in_place,uncertain,non_word,base_0635,two dogs in an office,pseudoword_replacement,office,yohoxu
+unc_nonword_00636,two dogs in a pelama,two_objects_in_place,uncertain,non_word,base_0636,two dogs in a garden,pseudoword_replacement,garden,pelama
+unc_nonword_00637,two dogs in a cexeke,two_objects_in_place,uncertain,non_word,base_0637,two dogs in a forest,pseudoword_replacement,forest,cexeke
+unc_nonword_00638,two lova in a desert,two_objects_in_place,uncertain,non_word,base_0638,two dogs in a desert,pseudoword_replacement,dogs,lova
+unc_nonword_00639,two teze in a city,two_objects_in_place,uncertain,non_word,base_0639,two dogs in a city,pseudoword_replacement,dogs,teze
+unc_nonword_00640,two kiyi in a village,two_objects_in_place,uncertain,non_word,base_0640,two dogs in a village,pseudoword_replacement,dogs,kiyi
+unc_nonword_00641,two dogs in a ropolesivu,two_objects_in_place,uncertain,non_word,base_0641,two dogs in a restaurant,pseudoword_replacement,restaurant,ropolesivu
+unc_nonword_00642,two dogs in a xabu,two_objects_in_place,uncertain,non_word,base_0642,two dogs in a cafe,pseudoword_replacement,cafe,xabu
+unc_nonword_00643,two dogs in a wuyimat,two_objects_in_place,uncertain,non_word,base_0643,two dogs in a library,pseudoword_replacement,library,wuyimat
+unc_nonword_00644,two nizi in a school,two_objects_in_place,uncertain,non_word,base_0644,two dogs in a school,pseudoword_replacement,dogs,nizi
+unc_nonword_00645,two dogs in a lijeve,two_objects_in_place,uncertain,non_word,base_0645,two dogs in a market,pseudoword_replacement,market,lijeve
+unc_nonword_00646,two yone in a farm,two_objects_in_place,uncertain,non_word,base_0646,two dogs in a farm,pseudoword_replacement,dogs,yone
+unc_nonword_00647,two zomi in a field,two_objects_in_place,uncertain,non_word,base_0647,two dogs in a field,pseudoword_replacement,dogs,zomi
+unc_nonword_00648,two dogs in an qocuxen,two_objects_in_place,uncertain,non_word,base_0648,two dogs in an airport,pseudoword_replacement,airport,qocuxen
+unc_nonword_00649,two wopu in a station,two_objects_in_place,uncertain,non_word,base_0649,two dogs in a station,pseudoword_replacement,dogs,wopu
+unc_nonword_00650,two cats in a huhi,two_objects_in_place,uncertain,non_word,base_0650,two cats in a room,pseudoword_replacement,room,huhi
+unc_nonword_00651,two telu in a street,two_objects_in_place,uncertain,non_word,base_0651,two cats in a street,pseudoword_replacement,cats,telu
+unc_nonword_00652,two naki in a park,two_objects_in_place,uncertain,non_word,base_0652,two cats in a park,pseudoword_replacement,cats,naki
+unc_nonword_00653,two moni in a kitchen,two_objects_in_place,uncertain,non_word,base_0653,two cats in a kitchen,pseudoword_replacement,cats,moni
+unc_nonword_00654,two cats in a xisat,two_objects_in_place,uncertain,non_word,base_0654,two cats in a beach,pseudoword_replacement,beach,xisat
+unc_nonword_00655,two zuxu in an office,two_objects_in_place,uncertain,non_word,base_0655,two cats in an office,pseudoword_replacement,cats,zuxu
+unc_nonword_00656,two teva in a garden,two_objects_in_place,uncertain,non_word,base_0656,two cats in a garden,pseudoword_replacement,cats,teva
+unc_nonword_00657,two cats in a virage,two_objects_in_place,uncertain,non_word,base_0657,two cats in a forest,pseudoword_replacement,forest,virage
+unc_nonword_00658,two noxo in a desert,two_objects_in_place,uncertain,non_word,base_0658,two cats in a desert,pseudoword_replacement,cats,noxo
+unc_nonword_00659,two nedo in a city,two_objects_in_place,uncertain,non_word,base_0659,two cats in a city,pseudoword_replacement,cats,nedo
+unc_nonword_00660,two cats in a zenabol,two_objects_in_place,uncertain,non_word,base_0660,two cats in a village,pseudoword_replacement,village,zenabol
+unc_nonword_00661,two huho in a restaurant,two_objects_in_place,uncertain,non_word,base_0661,two cats in a restaurant,pseudoword_replacement,cats,huho
+unc_nonword_00662,two guro in a cafe,two_objects_in_place,uncertain,non_word,base_0662,two cats in a cafe,pseudoword_replacement,cats,guro
+unc_nonword_00663,two cats in a roqacuj,two_objects_in_place,uncertain,non_word,base_0663,two cats in a library,pseudoword_replacement,library,roqacuj
+unc_nonword_00664,two cats in a biveba,two_objects_in_place,uncertain,non_word,base_0664,two cats in a school,pseudoword_replacement,school,biveba
+unc_nonword_00665,two kime in a market,two_objects_in_place,uncertain,non_word,base_0665,two cats in a market,pseudoword_replacement,cats,kime
+unc_nonword_00666,two quxi in a farm,two_objects_in_place,uncertain,non_word,base_0666,two cats in a farm,pseudoword_replacement,cats,quxi
+unc_nonword_00667,two dami in a field,two_objects_in_place,uncertain,non_word,base_0667,two cats in a field,pseudoword_replacement,cats,dami
+unc_nonword_00668,two cats in an vuviren,two_objects_in_place,uncertain,non_word,base_0668,two cats in an airport,pseudoword_replacement,airport,vuviren
+unc_nonword_00669,two cats in a pehobek,two_objects_in_place,uncertain,non_word,base_0669,two cats in a station,pseudoword_replacement,station,pehobek
+unc_nonword_00670,two jaxuha in a room,two_objects_in_place,uncertain,non_word,base_0670,two chairs in a room,pseudoword_replacement,chairs,jaxuha
+unc_nonword_00671,two chairs in a zaqiwu,two_objects_in_place,uncertain,non_word,base_0671,two chairs in a street,pseudoword_replacement,street,zaqiwu
+unc_nonword_00672,two yafaca in a park,two_objects_in_place,uncertain,non_word,base_0672,two chairs in a park,pseudoword_replacement,chairs,yafaca
+unc_nonword_00673,two chairs in a sofulog,two_objects_in_place,uncertain,non_word,base_0673,two chairs in a kitchen,pseudoword_replacement,kitchen,sofulog
+unc_nonword_00674,two zamofu in a beach,two_objects_in_place,uncertain,non_word,base_0674,two chairs in a beach,pseudoword_replacement,chairs,zamofu
+unc_nonword_00675,two chairs in an yugofu,two_objects_in_place,uncertain,non_word,base_0675,two chairs in an office,pseudoword_replacement,office,yugofu
+unc_nonword_00676,two mafoju in a garden,two_objects_in_place,uncertain,non_word,base_0676,two chairs in a garden,pseudoword_replacement,chairs,mafoju
+unc_nonword_00677,two lujiri in a forest,two_objects_in_place,uncertain,non_word,base_0677,two chairs in a forest,pseudoword_replacement,chairs,lujiri
+unc_nonword_00678,two cuteti in a desert,two_objects_in_place,uncertain,non_word,base_0678,two chairs in a desert,pseudoword_replacement,chairs,cuteti
+unc_nonword_00679,two badaxo in a city,two_objects_in_place,uncertain,non_word,base_0679,two chairs in a city,pseudoword_replacement,chairs,badaxo
+unc_nonword_00680,two dudale in a village,two_objects_in_place,uncertain,non_word,base_0680,two chairs in a village,pseudoword_replacement,chairs,dudale
+unc_nonword_00681,two chairs in a misafecipi,two_objects_in_place,uncertain,non_word,base_0681,two chairs in a restaurant,pseudoword_replacement,restaurant,misafecipi
+unc_nonword_00682,two chairs in a faca,two_objects_in_place,uncertain,non_word,base_0682,two chairs in a cafe,pseudoword_replacement,cafe,faca
+unc_nonword_00683,two zenisu in a library,two_objects_in_place,uncertain,non_word,base_0683,two chairs in a library,pseudoword_replacement,chairs,zenisu
+unc_nonword_00684,two chairs in a dinefo,two_objects_in_place,uncertain,non_word,base_0684,two chairs in a school,pseudoword_replacement,school,dinefo
+unc_nonword_00685,two chairs in a siqore,two_objects_in_place,uncertain,non_word,base_0685,two chairs in a market,pseudoword_replacement,market,siqore
+unc_nonword_00686,two gaharu in a farm,two_objects_in_place,uncertain,non_word,base_0686,two chairs in a farm,pseudoword_replacement,chairs,gaharu
+unc_nonword_00687,two chairs in a xohuq,two_objects_in_place,uncertain,non_word,base_0687,two chairs in a field,pseudoword_replacement,field,xohuq
+unc_nonword_00688,two chairs in an yagotar,two_objects_in_place,uncertain,non_word,base_0688,two chairs in an airport,pseudoword_replacement,airport,yagotar
+unc_nonword_00689,two chairs in a calibux,two_objects_in_place,uncertain,non_word,base_0689,two chairs in a station,pseudoword_replacement,station,calibux
+unc_nonword_00690,two nuvufo in a room,two_objects_in_place,uncertain,non_word,base_0690,two tables in a room,pseudoword_replacement,tables,nuvufo
+unc_nonword_00691,two tizogu in a street,two_objects_in_place,uncertain,non_word,base_0691,two tables in a street,pseudoword_replacement,tables,tizogu
+unc_nonword_00692,two bevote in a park,two_objects_in_place,uncertain,non_word,base_0692,two tables in a park,pseudoword_replacement,tables,bevote
+unc_nonword_00693,two tikila in a kitchen,two_objects_in_place,uncertain,non_word,base_0693,two tables in a kitchen,pseudoword_replacement,tables,tikila
+unc_nonword_00694,two woqedo in a beach,two_objects_in_place,uncertain,non_word,base_0694,two tables in a beach,pseudoword_replacement,tables,woqedo
+unc_nonword_00695,two tables in an xodosi,two_objects_in_place,uncertain,non_word,base_0695,two tables in an office,pseudoword_replacement,office,xodosi
+unc_nonword_00696,two tafora in a garden,two_objects_in_place,uncertain,non_word,base_0696,two tables in a garden,pseudoword_replacement,tables,tafora
+unc_nonword_00697,two duyivu in a forest,two_objects_in_place,uncertain,non_word,base_0697,two tables in a forest,pseudoword_replacement,tables,duyivu
+unc_nonword_00698,two zonice in a desert,two_objects_in_place,uncertain,non_word,base_0698,two tables in a desert,pseudoword_replacement,tables,zonice
+unc_nonword_00699,two tables in a nuyu,two_objects_in_place,uncertain,non_word,base_0699,two tables in a city,pseudoword_replacement,city,nuyu
+unc_nonword_00700,two tables in a pofakan,two_objects_in_place,uncertain,non_word,base_0700,two tables in a village,pseudoword_replacement,village,pofakan
+unc_nonword_00701,two tables in a ziwupacete,two_objects_in_place,uncertain,non_word,base_0701,two tables in a restaurant,pseudoword_replacement,restaurant,ziwupacete
+unc_nonword_00702,two tables in a fiye,two_objects_in_place,uncertain,non_word,base_0702,two tables in a cafe,pseudoword_replacement,cafe,fiye
+unc_nonword_00703,two fojoji in a library,two_objects_in_place,uncertain,non_word,base_0703,two tables in a library,pseudoword_replacement,tables,fojoji
+unc_nonword_00704,two razufo in a school,two_objects_in_place,uncertain,non_word,base_0704,two tables in a school,pseudoword_replacement,tables,razufo
+unc_nonword_00705,two tables in a xugobu,two_objects_in_place,uncertain,non_word,base_0705,two tables in a market,pseudoword_replacement,market,xugobu
+unc_nonword_00706,two woxove in a farm,two_objects_in_place,uncertain,non_word,base_0706,two tables in a farm,pseudoword_replacement,tables,woxove
+unc_nonword_00707,two gaquyi in a field,two_objects_in_place,uncertain,non_word,base_0707,two tables in a field,pseudoword_replacement,tables,gaquyi
+unc_nonword_00708,two tables in an rukiqim,two_objects_in_place,uncertain,non_word,base_0708,two tables in an airport,pseudoword_replacement,airport,rukiqim
+unc_nonword_00709,two tables in a geruviw,two_objects_in_place,uncertain,non_word,base_0709,two tables in a station,pseudoword_replacement,station,geruviw
+unc_nonword_00710,two cups in a weje,two_objects_in_place,uncertain,non_word,base_0710,two cups in a room,pseudoword_replacement,room,weje
+unc_nonword_00711,two cups in a pezevu,two_objects_in_place,uncertain,non_word,base_0711,two cups in a street,pseudoword_replacement,street,pezevu
+unc_nonword_00712,two cups in a fiwo,two_objects_in_place,uncertain,non_word,base_0712,two cups in a park,pseudoword_replacement,park,fiwo
+unc_nonword_00713,two cups in a wiravab,two_objects_in_place,uncertain,non_word,base_0713,two cups in a kitchen,pseudoword_replacement,kitchen,wiravab
+unc_nonword_00714,two cups in a gacel,two_objects_in_place,uncertain,non_word,base_0714,two cups in a beach,pseudoword_replacement,beach,gacel
+unc_nonword_00715,two miga in an office,two_objects_in_place,uncertain,non_word,base_0715,two cups in an office,pseudoword_replacement,cups,miga
+unc_nonword_00716,two cups in a jucisa,two_objects_in_place,uncertain,non_word,base_0716,two cups in a garden,pseudoword_replacement,garden,jucisa
+unc_nonword_00717,two zuqe in a forest,two_objects_in_place,uncertain,non_word,base_0717,two cups in a forest,pseudoword_replacement,cups,zuqe
+unc_nonword_00718,two cups in a coqonu,two_objects_in_place,uncertain,non_word,base_0718,two cups in a desert,pseudoword_replacement,desert,coqonu
+unc_nonword_00719,two biju in a city,two_objects_in_place,uncertain,non_word,base_0719,two cups in a city,pseudoword_replacement,cups,biju
+unc_nonword_00720,two cups in a kixuyej,two_objects_in_place,uncertain,non_word,base_0720,two cups in a village,pseudoword_replacement,village,kixuyej
+unc_nonword_00721,two cups in a sedehufoco,two_objects_in_place,uncertain,non_word,base_0721,two cups in a restaurant,pseudoword_replacement,restaurant,sedehufoco
+unc_nonword_00722,two cups in a wige,two_objects_in_place,uncertain,non_word,base_0722,two cups in a cafe,pseudoword_replacement,cafe,wige
+unc_nonword_00723,two cups in a bisecen,two_objects_in_place,uncertain,non_word,base_0723,two cups in a library,pseudoword_replacement,library,bisecen
+unc_nonword_00724,two zumo in a school,two_objects_in_place,uncertain,non_word,base_0724,two cups in a school,pseudoword_replacement,cups,zumo
+unc_nonword_00725,two cups in a divehu,two_objects_in_place,uncertain,non_word,base_0725,two cups in a market,pseudoword_replacement,market,divehu
+unc_nonword_00726,two veru in a farm,two_objects_in_place,uncertain,non_word,base_0726,two cups in a farm,pseudoword_replacement,cups,veru
+unc_nonword_00727,two cups in a diken,two_objects_in_place,uncertain,non_word,base_0727,two cups in a field,pseudoword_replacement,field,diken
+unc_nonword_00728,two cups in an pijuvow,two_objects_in_place,uncertain,non_word,base_0728,two cups in an airport,pseudoword_replacement,airport,pijuvow
+unc_nonword_00729,two fise in a station,two_objects_in_place,uncertain,non_word,base_0729,two cups in a station,pseudoword_replacement,cups,fise
+unc_nonword_00730,two ciqaqiw in a room,two_objects_in_place,uncertain,non_word,base_0730,two bottles in a room,pseudoword_replacement,bottles,ciqaqiw
+unc_nonword_00731,two bottles in a bupuvo,two_objects_in_place,uncertain,non_word,base_0731,two bottles in a street,pseudoword_replacement,street,bupuvo
+unc_nonword_00732,two bottles in a cize,two_objects_in_place,uncertain,non_word,base_0732,two bottles in a park,pseudoword_replacement,park,cize
+unc_nonword_00733,two bottles in a vafewub,two_objects_in_place,uncertain,non_word,base_0733,two bottles in a kitchen,pseudoword_replacement,kitchen,vafewub
+unc_nonword_00734,two jerajur in a beach,two_objects_in_place,uncertain,non_word,base_0734,two bottles in a beach,pseudoword_replacement,bottles,jerajur
+unc_nonword_00735,two gasicad in an office,two_objects_in_place,uncertain,non_word,base_0735,two bottles in an office,pseudoword_replacement,bottles,gasicad
+unc_nonword_00736,two hiwaxel in a garden,two_objects_in_place,uncertain,non_word,base_0736,two bottles in a garden,pseudoword_replacement,bottles,hiwaxel
+unc_nonword_00737,two bottles in a qozori,two_objects_in_place,uncertain,non_word,base_0737,two bottles in a forest,pseudoword_replacement,forest,qozori
+unc_nonword_00738,two qawazud in a desert,two_objects_in_place,uncertain,non_word,base_0738,two bottles in a desert,pseudoword_replacement,bottles,qawazud
+unc_nonword_00739,two divamiy in a city,two_objects_in_place,uncertain,non_word,base_0739,two bottles in a city,pseudoword_replacement,bottles,divamiy
+unc_nonword_00740,two moqoboh in a village,two_objects_in_place,uncertain,non_word,base_0740,two bottles in a village,pseudoword_replacement,bottles,moqoboh
+unc_nonword_00741,two gowizem in a restaurant,two_objects_in_place,uncertain,non_word,base_0741,two bottles in a restaurant,pseudoword_replacement,bottles,gowizem
+unc_nonword_00742,two bottles in a buwe,two_objects_in_place,uncertain,non_word,base_0742,two bottles in a cafe,pseudoword_replacement,cafe,buwe
+unc_nonword_00743,two caxuquw in a library,two_objects_in_place,uncertain,non_word,base_0743,two bottles in a library,pseudoword_replacement,bottles,caxuquw
+unc_nonword_00744,two meperug in a school,two_objects_in_place,uncertain,non_word,base_0744,two bottles in a school,pseudoword_replacement,bottles,meperug
+unc_nonword_00745,two heyijah in a market,two_objects_in_place,uncertain,non_word,base_0745,two bottles in a market,pseudoword_replacement,bottles,heyijah
+unc_nonword_00746,two wozudid in a farm,two_objects_in_place,uncertain,non_word,base_0746,two bottles in a farm,pseudoword_replacement,bottles,wozudid
+unc_nonword_00747,two bottles in a fexon,two_objects_in_place,uncertain,non_word,base_0747,two bottles in a field,pseudoword_replacement,field,fexon
+unc_nonword_00748,two bottles in an gefiyaj,two_objects_in_place,uncertain,non_word,base_0748,two bottles in an airport,pseudoword_replacement,airport,gefiyaj
+unc_nonword_00749,two bottles in a tonumug,two_objects_in_place,uncertain,non_word,base_0749,two bottles in a station,pseudoword_replacement,station,tonumug
+unc_nonword_00750,two bicycles in a noha,two_objects_in_place,uncertain,non_word,base_0750,two bicycles in a room,pseudoword_replacement,room,noha
+unc_nonword_00751,two bicycles in a kezoli,two_objects_in_place,uncertain,non_word,base_0751,two bicycles in a street,pseudoword_replacement,street,kezoli
+unc_nonword_00752,two nosopitu in a park,two_objects_in_place,uncertain,non_word,base_0752,two bicycles in a park,pseudoword_replacement,bicycles,nosopitu
+unc_nonword_00753,two hudiguji in a kitchen,two_objects_in_place,uncertain,non_word,base_0753,two bicycles in a kitchen,pseudoword_replacement,bicycles,hudiguji
+unc_nonword_00754,two davaxuqu in a beach,two_objects_in_place,uncertain,non_word,base_0754,two bicycles in a beach,pseudoword_replacement,bicycles,davaxuqu
+unc_nonword_00755,two culuwoze in an office,two_objects_in_place,uncertain,non_word,base_0755,two bicycles in an office,pseudoword_replacement,bicycles,culuwoze
+unc_nonword_00756,two bicycles in a qexigo,two_objects_in_place,uncertain,non_word,base_0756,two bicycles in a garden,pseudoword_replacement,garden,qexigo
+unc_nonword_00757,two qivakuhu in a forest,two_objects_in_place,uncertain,non_word,base_0757,two bicycles in a forest,pseudoword_replacement,bicycles,qivakuhu
+unc_nonword_00758,two sehuxeti in a desert,two_objects_in_place,uncertain,non_word,base_0758,two bicycles in a desert,pseudoword_replacement,bicycles,sehuxeti
+unc_nonword_00759,two kokalika in a city,two_objects_in_place,uncertain,non_word,base_0759,two bicycles in a city,pseudoword_replacement,bicycles,kokalika
+unc_nonword_00760,two viqosaci in a village,two_objects_in_place,uncertain,non_word,base_0760,two bicycles in a village,pseudoword_replacement,bicycles,viqosaci
+unc_nonword_00761,two viluwuho in a restaurant,two_objects_in_place,uncertain,non_word,base_0761,two bicycles in a restaurant,pseudoword_replacement,bicycles,viluwuho
+unc_nonword_00762,two bicycles in a puza,two_objects_in_place,uncertain,non_word,base_0762,two bicycles in a cafe,pseudoword_replacement,cafe,puza
+unc_nonword_00763,two bicycles in a qevopit,two_objects_in_place,uncertain,non_word,base_0763,two bicycles in a library,pseudoword_replacement,library,qevopit
+unc_nonword_00764,two bicycles in a yavese,two_objects_in_place,uncertain,non_word,base_0764,two bicycles in a school,pseudoword_replacement,school,yavese
+unc_nonword_00765,two duzijehe in a market,two_objects_in_place,uncertain,non_word,base_0765,two bicycles in a market,pseudoword_replacement,bicycles,duzijehe
+unc_nonword_00766,two bicycles in a yako,two_objects_in_place,uncertain,non_word,base_0766,two bicycles in a farm,pseudoword_replacement,farm,yako
+unc_nonword_00767,two bicycles in a fotoj,two_objects_in_place,uncertain,non_word,base_0767,two bicycles in a field,pseudoword_replacement,field,fotoj
+unc_nonword_00768,two zobecexu in an airport,two_objects_in_place,uncertain,non_word,base_0768,two bicycles in an airport,pseudoword_replacement,bicycles,zobecexu
+unc_nonword_00769,two gucugahi in a station,two_objects_in_place,uncertain,non_word,base_0769,two bicycles in a station,pseudoword_replacement,bicycles,gucugahi
+unc_nonword_00770,two voyu in a room,two_objects_in_place,uncertain,non_word,base_0770,two cars in a room,pseudoword_replacement,cars,voyu
+unc_nonword_00771,two majo in a street,two_objects_in_place,uncertain,non_word,base_0771,two cars in a street,pseudoword_replacement,cars,majo
+unc_nonword_00772,two cars in a teko,two_objects_in_place,uncertain,non_word,base_0772,two cars in a park,pseudoword_replacement,park,teko
+unc_nonword_00773,two xeyu in a kitchen,two_objects_in_place,uncertain,non_word,base_0773,two cars in a kitchen,pseudoword_replacement,cars,xeyu
+unc_nonword_00774,two cars in a hisux,two_objects_in_place,uncertain,non_word,base_0774,two cars in a beach,pseudoword_replacement,beach,hisux
+unc_nonword_00775,two koqe in an office,two_objects_in_place,uncertain,non_word,base_0775,two cars in an office,pseudoword_replacement,cars,koqe
+unc_nonword_00776,two bevu in a garden,two_objects_in_place,uncertain,non_word,base_0776,two cars in a garden,pseudoword_replacement,cars,bevu
+unc_nonword_00777,two cars in a gufetu,two_objects_in_place,uncertain,non_word,base_0777,two cars in a forest,pseudoword_replacement,forest,gufetu
+unc_nonword_00778,two wufa in a desert,two_objects_in_place,uncertain,non_word,base_0778,two cars in a desert,pseudoword_replacement,cars,wufa
+unc_nonword_00779,two cars in a guwa,two_objects_in_place,uncertain,non_word,base_0779,two cars in a city,pseudoword_replacement,city,guwa
+unc_nonword_00780,two cars in a vopavok,two_objects_in_place,uncertain,non_word,base_0780,two cars in a village,pseudoword_replacement,village,vopavok
+unc_nonword_00781,two cars in a qixufogite,two_objects_in_place,uncertain,non_word,base_0781,two cars in a restaurant,pseudoword_replacement,restaurant,qixufogite
+unc_nonword_00782,two muwo in a cafe,two_objects_in_place,uncertain,non_word,base_0782,two cars in a cafe,pseudoword_replacement,cars,muwo
+unc_nonword_00783,two cars in a jabuvav,two_objects_in_place,uncertain,non_word,base_0783,two cars in a library,pseudoword_replacement,library,jabuvav
+unc_nonword_00784,two qeno in a school,two_objects_in_place,uncertain,non_word,base_0784,two cars in a school,pseudoword_replacement,cars,qeno
+unc_nonword_00785,two cars in a feruli,two_objects_in_place,uncertain,non_word,base_0785,two cars in a market,pseudoword_replacement,market,feruli
+unc_nonword_00786,two cars in a xiyi,two_objects_in_place,uncertain,non_word,base_0786,two cars in a farm,pseudoword_replacement,farm,xiyi
+unc_nonword_00787,two cars in a jowut,two_objects_in_place,uncertain,non_word,base_0787,two cars in a field,pseudoword_replacement,field,jowut
+unc_nonword_00788,two puwo in an airport,two_objects_in_place,uncertain,non_word,base_0788,two cars in an airport,pseudoword_replacement,cars,puwo
+unc_nonword_00789,two cars in a mupogak,two_objects_in_place,uncertain,non_word,base_0789,two cars in a station,pseudoword_replacement,station,mupogak
+unc_nonword_00790,two racks in a haju,two_objects_in_place,uncertain,non_word,base_0790,two racks in a room,pseudoword_replacement,room,haju
+unc_nonword_00791,two racks in a nuyaho,two_objects_in_place,uncertain,non_word,base_0791,two racks in a street,pseudoword_replacement,street,nuyaho
+unc_nonword_00792,two detur in a park,two_objects_in_place,uncertain,non_word,base_0792,two racks in a park,pseudoword_replacement,racks,detur
+unc_nonword_00793,two dikid in a kitchen,two_objects_in_place,uncertain,non_word,base_0793,two racks in a kitchen,pseudoword_replacement,racks,dikid
+unc_nonword_00794,two qoyum in a beach,two_objects_in_place,uncertain,non_word,base_0794,two racks in a beach,pseudoword_replacement,racks,qoyum
+unc_nonword_00795,two hosaj in an office,two_objects_in_place,uncertain,non_word,base_0795,two racks in an office,pseudoword_replacement,racks,hosaj
+unc_nonword_00796,two racks in a jayuve,two_objects_in_place,uncertain,non_word,base_0796,two racks in a garden,pseudoword_replacement,garden,jayuve
+unc_nonword_00797,two cikah in a forest,two_objects_in_place,uncertain,non_word,base_0797,two racks in a forest,pseudoword_replacement,racks,cikah
+unc_nonword_00798,two lopoq in a desert,two_objects_in_place,uncertain,non_word,base_0798,two racks in a desert,pseudoword_replacement,racks,lopoq
+unc_nonword_00799,two vadaw in a city,two_objects_in_place,uncertain,non_word,base_0799,two racks in a city,pseudoword_replacement,racks,vadaw
+unc_nonword_00800,two racks in a wupiley,two_objects_in_place,uncertain,non_word,base_0800,two racks in a village,pseudoword_replacement,village,wupiley
+unc_nonword_00801,two soxal in a restaurant,two_objects_in_place,uncertain,non_word,base_0801,two racks in a restaurant,pseudoword_replacement,racks,soxal
+unc_nonword_00802,two rufud in a cafe,two_objects_in_place,uncertain,non_word,base_0802,two racks in a cafe,pseudoword_replacement,racks,rufud
+unc_nonword_00803,two racks in a naviwul,two_objects_in_place,uncertain,non_word,base_0803,two racks in a library,pseudoword_replacement,library,naviwul
+unc_nonword_00804,two racks in a quteno,two_objects_in_place,uncertain,non_word,base_0804,two racks in a school,pseudoword_replacement,school,quteno
+unc_nonword_00805,two racks in a xatala,two_objects_in_place,uncertain,non_word,base_0805,two racks in a market,pseudoword_replacement,market,xatala
+unc_nonword_00806,two racks in a zeki,two_objects_in_place,uncertain,non_word,base_0806,two racks in a farm,pseudoword_replacement,farm,zeki
+unc_nonword_00807,two racks in a puwal,two_objects_in_place,uncertain,non_word,base_0807,two racks in a field,pseudoword_replacement,field,puwal
+unc_nonword_00808,two maqid in an airport,two_objects_in_place,uncertain,non_word,base_0808,two racks in an airport,pseudoword_replacement,racks,maqid
+unc_nonword_00809,two tipex in a station,two_objects_in_place,uncertain,non_word,base_0809,two racks in a station,pseudoword_replacement,racks,tipex
+unc_nonword_00810,two apples in a hete,two_objects_in_place,uncertain,non_word,base_0810,two apples in a room,pseudoword_replacement,room,hete
+unc_nonword_00811,two kijeje in a street,two_objects_in_place,uncertain,non_word,base_0811,two apples in a street,pseudoword_replacement,apples,kijeje
+unc_nonword_00812,two apples in a gafa,two_objects_in_place,uncertain,non_word,base_0812,two apples in a park,pseudoword_replacement,park,gafa
+unc_nonword_00813,two apples in a yawatiy,two_objects_in_place,uncertain,non_word,base_0813,two apples in a kitchen,pseudoword_replacement,kitchen,yawatiy
+unc_nonword_00814,two apples in a tuloh,two_objects_in_place,uncertain,non_word,base_0814,two apples in a beach,pseudoword_replacement,beach,tuloh
+unc_nonword_00815,two apples in an qexecu,two_objects_in_place,uncertain,non_word,base_0815,two apples in an office,pseudoword_replacement,office,qexecu
+unc_nonword_00816,two apples in a tucupo,two_objects_in_place,uncertain,non_word,base_0816,two apples in a garden,pseudoword_replacement,garden,tucupo
+unc_nonword_00817,two savona in a forest,two_objects_in_place,uncertain,non_word,base_0817,two apples in a forest,pseudoword_replacement,apples,savona
+unc_nonword_00818,two joxani in a desert,two_objects_in_place,uncertain,non_word,base_0818,two apples in a desert,pseudoword_replacement,apples,joxani
+unc_nonword_00819,two apples in a hule,two_objects_in_place,uncertain,non_word,base_0819,two apples in a city,pseudoword_replacement,city,hule
+unc_nonword_00820,two apples in a tunihor,two_objects_in_place,uncertain,non_word,base_0820,two apples in a village,pseudoword_replacement,village,tunihor
+unc_nonword_00821,two ripolo in a restaurant,two_objects_in_place,uncertain,non_word,base_0821,two apples in a restaurant,pseudoword_replacement,apples,ripolo
+unc_nonword_00822,two xexefi in a cafe,two_objects_in_place,uncertain,non_word,base_0822,two apples in a cafe,pseudoword_replacement,apples,xexefi
+unc_nonword_00823,two woqege in a library,two_objects_in_place,uncertain,non_word,base_0823,two apples in a library,pseudoword_replacement,apples,woqege
+unc_nonword_00824,two apples in a berogu,two_objects_in_place,uncertain,non_word,base_0824,two apples in a school,pseudoword_replacement,school,berogu
+unc_nonword_00825,two apples in a tiluxa,two_objects_in_place,uncertain,non_word,base_0825,two apples in a market,pseudoword_replacement,market,tiluxa
+unc_nonword_00826,two apples in a fece,two_objects_in_place,uncertain,non_word,base_0826,two apples in a farm,pseudoword_replacement,farm,fece
+unc_nonword_00827,two apples in a tasil,two_objects_in_place,uncertain,non_word,base_0827,two apples in a field,pseudoword_replacement,field,tasil
+unc_nonword_00828,two apples in an puwipar,two_objects_in_place,uncertain,non_word,base_0828,two apples in an airport,pseudoword_replacement,airport,puwipar
+unc_nonword_00829,two pujuxu in a station,two_objects_in_place,uncertain,non_word,base_0829,two apples in a station,pseudoword_replacement,apples,pujuxu
+unc_nonword_00830,two minutod in a room,two_objects_in_place,uncertain,non_word,base_0830,two bananas in a room,pseudoword_replacement,bananas,minutod
+unc_nonword_00831,two bananas in a yisehi,two_objects_in_place,uncertain,non_word,base_0831,two bananas in a street,pseudoword_replacement,street,yisehi
+unc_nonword_00832,two bananas in a zuxo,two_objects_in_place,uncertain,non_word,base_0832,two bananas in a park,pseudoword_replacement,park,zuxo
+unc_nonword_00833,two deneniz in a kitchen,two_objects_in_place,uncertain,non_word,base_0833,two bananas in a kitchen,pseudoword_replacement,bananas,deneniz
+unc_nonword_00834,two bananas in a luzol,two_objects_in_place,uncertain,non_word,base_0834,two bananas in a beach,pseudoword_replacement,beach,luzol
+unc_nonword_00835,two bananas in an puvore,two_objects_in_place,uncertain,non_word,base_0835,two bananas in an office,pseudoword_replacement,office,puvore
+unc_nonword_00836,two bekideh in a garden,two_objects_in_place,uncertain,non_word,base_0836,two bananas in a garden,pseudoword_replacement,bananas,bekideh
+unc_nonword_00837,two bananas in a fadowa,two_objects_in_place,uncertain,non_word,base_0837,two bananas in a forest,pseudoword_replacement,forest,fadowa
+unc_nonword_00838,two qudalug in a desert,two_objects_in_place,uncertain,non_word,base_0838,two bananas in a desert,pseudoword_replacement,bananas,qudalug
+unc_nonword_00839,two zomekis in a city,two_objects_in_place,uncertain,non_word,base_0839,two bananas in a city,pseudoword_replacement,bananas,zomekis
+unc_nonword_00840,two guhacin in a village,two_objects_in_place,uncertain,non_word,base_0840,two bananas in a village,pseudoword_replacement,bananas,guhacin
+unc_nonword_00841,two bananas in a sulusewexu,two_objects_in_place,uncertain,non_word,base_0841,two bananas in a restaurant,pseudoword_replacement,restaurant,sulusewexu
+unc_nonword_00842,two bananas in a zuru,two_objects_in_place,uncertain,non_word,base_0842,two bananas in a cafe,pseudoword_replacement,cafe,zuru
+unc_nonword_00843,two bananas in a powedom,two_objects_in_place,uncertain,non_word,base_0843,two bananas in a library,pseudoword_replacement,library,powedom
+unc_nonword_00844,two bananas in a rigiba,two_objects_in_place,uncertain,non_word,base_0844,two bananas in a school,pseudoword_replacement,school,rigiba
+unc_nonword_00845,two pitubot in a market,two_objects_in_place,uncertain,non_word,base_0845,two bananas in a market,pseudoword_replacement,bananas,pitubot
+unc_nonword_00846,two bananas in a bomu,two_objects_in_place,uncertain,non_word,base_0846,two bananas in a farm,pseudoword_replacement,farm,bomu
+unc_nonword_00847,two buperur in a field,two_objects_in_place,uncertain,non_word,base_0847,two bananas in a field,pseudoword_replacement,bananas,buperur
+unc_nonword_00848,two bananas in an kezoqel,two_objects_in_place,uncertain,non_word,base_0848,two bananas in an airport,pseudoword_replacement,airport,kezoqel
+unc_nonword_00849,two revuliz in a station,two_objects_in_place,uncertain,non_word,base_0849,two bananas in a station,pseudoword_replacement,bananas,revuliz
+unc_nonword_00850,two books in a rede,two_objects_in_place,uncertain,non_word,base_0850,two books in a room,pseudoword_replacement,room,rede
+unc_nonword_00851,two mazoy in a street,two_objects_in_place,uncertain,non_word,base_0851,two books in a street,pseudoword_replacement,books,mazoy
+unc_nonword_00852,two books in a lute,two_objects_in_place,uncertain,non_word,base_0852,two books in a park,pseudoword_replacement,park,lute
+unc_nonword_00853,two books in a becubef,two_objects_in_place,uncertain,non_word,base_0853,two books in a kitchen,pseudoword_replacement,kitchen,becubef
+unc_nonword_00854,two books in a lesak,two_objects_in_place,uncertain,non_word,base_0854,two books in a beach,pseudoword_replacement,beach,lesak
+unc_nonword_00855,two gaten in an office,two_objects_in_place,uncertain,non_word,base_0855,two books in an office,pseudoword_replacement,books,gaten
+unc_nonword_00856,two books in a mopoci,two_objects_in_place,uncertain,non_word,base_0856,two books in a garden,pseudoword_replacement,garden,mopoci
+unc_nonword_00857,two galod in a forest,two_objects_in_place,uncertain,non_word,base_0857,two books in a forest,pseudoword_replacement,books,galod
+unc_nonword_00858,two books in a heloba,two_objects_in_place,uncertain,non_word,base_0858,two books in a desert,pseudoword_replacement,desert,heloba
+unc_nonword_00859,two qokaj in a city,two_objects_in_place,uncertain,non_word,base_0859,two books in a city,pseudoword_replacement,books,qokaj
+unc_nonword_00860,two books in a fujoqin,two_objects_in_place,uncertain,non_word,base_0860,two books in a village,pseudoword_replacement,village,fujoqin
+unc_nonword_00861,two zawuf in a restaurant,two_objects_in_place,uncertain,non_word,base_0861,two books in a restaurant,pseudoword_replacement,books,zawuf
+unc_nonword_00862,two books in a tiji,two_objects_in_place,uncertain,non_word,base_0862,two books in a cafe,pseudoword_replacement,cafe,tiji
+unc_nonword_00863,two jakon in a library,two_objects_in_place,uncertain,non_word,base_0863,two books in a library,pseudoword_replacement,books,jakon
+unc_nonword_00864,two hixaq in a school,two_objects_in_place,uncertain,non_word,base_0864,two books in a school,pseudoword_replacement,books,hixaq
+unc_nonword_00865,two baxoy in a market,two_objects_in_place,uncertain,non_word,base_0865,two books in a market,pseudoword_replacement,books,baxoy
+unc_nonword_00866,two paket in a farm,two_objects_in_place,uncertain,non_word,base_0866,two books in a farm,pseudoword_replacement,books,paket
+unc_nonword_00867,two yizac in a field,two_objects_in_place,uncertain,non_word,base_0867,two books in a field,pseudoword_replacement,books,yizac
+unc_nonword_00868,two books in an zewagok,two_objects_in_place,uncertain,non_word,base_0868,two books in an airport,pseudoword_replacement,airport,zewagok
+unc_nonword_00869,two books in a wisebop,two_objects_in_place,uncertain,non_word,base_0869,two books in a station,pseudoword_replacement,station,wisebop
+unc_nonword_00870,two latowi in a room,two_objects_in_place,uncertain,non_word,base_0870,two phones in a room,pseudoword_replacement,phones,latowi
+unc_nonword_00871,two phones in a juhupi,two_objects_in_place,uncertain,non_word,base_0871,two phones in a street,pseudoword_replacement,street,juhupi
+unc_nonword_00872,two phones in a luwe,two_objects_in_place,uncertain,non_word,base_0872,two phones in a park,pseudoword_replacement,park,luwe
+unc_nonword_00873,two vesilu in a kitchen,two_objects_in_place,uncertain,non_word,base_0873,two phones in a kitchen,pseudoword_replacement,phones,vesilu
+unc_nonword_00874,two phones in a sazuq,two_objects_in_place,uncertain,non_word,base_0874,two phones in a beach,pseudoword_replacement,beach,sazuq
+unc_nonword_00875,two bupuki in an office,two_objects_in_place,uncertain,non_word,base_0875,two phones in an office,pseudoword_replacement,phones,bupuki
+unc_nonword_00876,two wojutu in a garden,two_objects_in_place,uncertain,non_word,base_0876,two phones in a garden,pseudoword_replacement,phones,wojutu
+unc_nonword_00877,two yinozi in a forest,two_objects_in_place,uncertain,non_word,base_0877,two phones in a forest,pseudoword_replacement,phones,yinozi
+unc_nonword_00878,two fudage in a desert,two_objects_in_place,uncertain,non_word,base_0878,two phones in a desert,pseudoword_replacement,phones,fudage
+unc_nonword_00879,two jatefa in a city,two_objects_in_place,uncertain,non_word,base_0879,two phones in a city,pseudoword_replacement,phones,jatefa
+unc_nonword_00880,two phones in a tuyulap,two_objects_in_place,uncertain,non_word,base_0880,two phones in a village,pseudoword_replacement,village,tuyulap
+unc_nonword_00881,two yabezo in a restaurant,two_objects_in_place,uncertain,non_word,base_0881,two phones in a restaurant,pseudoword_replacement,phones,yabezo
+unc_nonword_00882,two sapuri in a cafe,two_objects_in_place,uncertain,non_word,base_0882,two phones in a cafe,pseudoword_replacement,phones,sapuri
+unc_nonword_00883,two yivadi in a library,two_objects_in_place,uncertain,non_word,base_0883,two phones in a library,pseudoword_replacement,phones,yivadi
+unc_nonword_00884,two jufaku in a school,two_objects_in_place,uncertain,non_word,base_0884,two phones in a school,pseudoword_replacement,phones,jufaku
+unc_nonword_00885,two phones in a jevexe,two_objects_in_place,uncertain,non_word,base_0885,two phones in a market,pseudoword_replacement,market,jevexe
+unc_nonword_00886,two phones in a fupo,two_objects_in_place,uncertain,non_word,base_0886,two phones in a farm,pseudoword_replacement,farm,fupo
+unc_nonword_00887,two phones in a fehuq,two_objects_in_place,uncertain,non_word,base_0887,two phones in a field,pseudoword_replacement,field,fehuq
+unc_nonword_00888,two phones in an huyopiw,two_objects_in_place,uncertain,non_word,base_0888,two phones in an airport,pseudoword_replacement,airport,huyopiw
+unc_nonword_00889,two phones in a pozonuk,two_objects_in_place,uncertain,non_word,base_0889,two phones in a station,pseudoword_replacement,station,pozonuk
+unc_nonword_00890,two qulisoq in a room,two_objects_in_place,uncertain,non_word,base_0890,two laptops in a room,pseudoword_replacement,laptops,qulisoq
+unc_nonword_00891,two ciyavem in a street,two_objects_in_place,uncertain,non_word,base_0891,two laptops in a street,pseudoword_replacement,laptops,ciyavem
+unc_nonword_00892,two mejibiw in a park,two_objects_in_place,uncertain,non_word,base_0892,two laptops in a park,pseudoword_replacement,laptops,mejibiw
+unc_nonword_00893,two fasigel in a kitchen,two_objects_in_place,uncertain,non_word,base_0893,two laptops in a kitchen,pseudoword_replacement,laptops,fasigel
+unc_nonword_00894,two laptops in a xekim,two_objects_in_place,uncertain,non_word,base_0894,two laptops in a beach,pseudoword_replacement,beach,xekim
+unc_nonword_00895,two xoxedit in an office,two_objects_in_place,uncertain,non_word,base_0895,two laptops in an office,pseudoword_replacement,laptops,xoxedit
+unc_nonword_00896,two tufuzic in a garden,two_objects_in_place,uncertain,non_word,base_0896,two laptops in a garden,pseudoword_replacement,laptops,tufuzic
+unc_nonword_00897,two laptops in a daniro,two_objects_in_place,uncertain,non_word,base_0897,two laptops in a forest,pseudoword_replacement,forest,daniro
+unc_nonword_00898,two kubociv in a desert,two_objects_in_place,uncertain,non_word,base_0898,two laptops in a desert,pseudoword_replacement,laptops,kubociv
+unc_nonword_00899,two nuxenuk in a city,two_objects_in_place,uncertain,non_word,base_0899,two laptops in a city,pseudoword_replacement,laptops,nuxenuk
+unc_nonword_00900,two cosuxud in a village,two_objects_in_place,uncertain,non_word,base_0900,two laptops in a village,pseudoword_replacement,laptops,cosuxud
+unc_nonword_00901,two riqegid in a restaurant,two_objects_in_place,uncertain,non_word,base_0901,two laptops in a restaurant,pseudoword_replacement,laptops,riqegid
+unc_nonword_00902,two laptops in a xawo,two_objects_in_place,uncertain,non_word,base_0902,two laptops in a cafe,pseudoword_replacement,cafe,xawo
+unc_nonword_00903,two laptops in a dovoget,two_objects_in_place,uncertain,non_word,base_0903,two laptops in a library,pseudoword_replacement,library,dovoget
+unc_nonword_00904,two tozujuy in a school,two_objects_in_place,uncertain,non_word,base_0904,two laptops in a school,pseudoword_replacement,laptops,tozujuy
+unc_nonword_00905,two kalonud in a market,two_objects_in_place,uncertain,non_word,base_0905,two laptops in a market,pseudoword_replacement,laptops,kalonud
+unc_nonword_00906,two ropijip in a farm,two_objects_in_place,uncertain,non_word,base_0906,two laptops in a farm,pseudoword_replacement,laptops,ropijip
+unc_nonword_00907,two mepusug in a field,two_objects_in_place,uncertain,non_word,base_0907,two laptops in a field,pseudoword_replacement,laptops,mepusug
+unc_nonword_00908,two laptops in an cejigaf,two_objects_in_place,uncertain,non_word,base_0908,two laptops in an airport,pseudoword_replacement,airport,cejigaf
+unc_nonword_00909,two kugibif in a station,two_objects_in_place,uncertain,non_word,base_0909,two laptops in a station,pseudoword_replacement,laptops,kugibif
+unc_nonword_00910,two cameras in a sobi,two_objects_in_place,uncertain,non_word,base_0910,two cameras in a room,pseudoword_replacement,room,sobi
+unc_nonword_00911,two wejuviw in a street,two_objects_in_place,uncertain,non_word,base_0911,two cameras in a street,pseudoword_replacement,cameras,wejuviw
+unc_nonword_00912,two cameras in a yebo,two_objects_in_place,uncertain,non_word,base_0912,two cameras in a park,pseudoword_replacement,park,yebo
+unc_nonword_00913,two lecijul in a kitchen,two_objects_in_place,uncertain,non_word,base_0913,two cameras in a kitchen,pseudoword_replacement,cameras,lecijul
+unc_nonword_00914,two sadolif in a beach,two_objects_in_place,uncertain,non_word,base_0914,two cameras in a beach,pseudoword_replacement,cameras,sadolif
+unc_nonword_00915,two mokovan in an office,two_objects_in_place,uncertain,non_word,base_0915,two cameras in an office,pseudoword_replacement,cameras,mokovan
+unc_nonword_00916,two cameras in a yudeju,two_objects_in_place,uncertain,non_word,base_0916,two cameras in a garden,pseudoword_replacement,garden,yudeju
+unc_nonword_00917,two cameras in a wacevi,two_objects_in_place,uncertain,non_word,base_0917,two cameras in a forest,pseudoword_replacement,forest,wacevi
+unc_nonword_00918,two cameras in a tohapi,two_objects_in_place,uncertain,non_word,base_0918,two cameras in a desert,pseudoword_replacement,desert,tohapi
+unc_nonword_00919,two cameras in a ziku,two_objects_in_place,uncertain,non_word,base_0919,two cameras in a city,pseudoword_replacement,city,ziku
+unc_nonword_00920,two cameras in a ciqawik,two_objects_in_place,uncertain,non_word,base_0920,two cameras in a village,pseudoword_replacement,village,ciqawik
+unc_nonword_00921,two nogaquy in a restaurant,two_objects_in_place,uncertain,non_word,base_0921,two cameras in a restaurant,pseudoword_replacement,cameras,nogaquy
+unc_nonword_00922,two rexeriy in a cafe,two_objects_in_place,uncertain,non_word,base_0922,two cameras in a cafe,pseudoword_replacement,cameras,rexeriy
+unc_nonword_00923,two cameras in a sugezex,two_objects_in_place,uncertain,non_word,base_0923,two cameras in a library,pseudoword_replacement,library,sugezex
+unc_nonword_00924,two giverez in a school,two_objects_in_place,uncertain,non_word,base_0924,two cameras in a school,pseudoword_replacement,cameras,giverez
+unc_nonword_00925,two nawufen in a market,two_objects_in_place,uncertain,non_word,base_0925,two cameras in a market,pseudoword_replacement,cameras,nawufen
+unc_nonword_00926,two biromoz in a farm,two_objects_in_place,uncertain,non_word,base_0926,two cameras in a farm,pseudoword_replacement,cameras,biromoz
+unc_nonword_00927,two cameras in a gefeh,two_objects_in_place,uncertain,non_word,base_0927,two cameras in a field,pseudoword_replacement,field,gefeh
+unc_nonword_00928,two yuluxuk in an airport,two_objects_in_place,uncertain,non_word,base_0928,two cameras in an airport,pseudoword_replacement,cameras,yuluxuk
+unc_nonword_00929,two kapatev in a station,two_objects_in_place,uncertain,non_word,base_0929,two cameras in a station,pseudoword_replacement,cameras,kapatev
+unc_nonword_00930,two backpacks in a ziho,two_objects_in_place,uncertain,non_word,base_0930,two backpacks in a room,pseudoword_replacement,room,ziho
+unc_nonword_00931,two backpacks in a teheka,two_objects_in_place,uncertain,non_word,base_0931,two backpacks in a street,pseudoword_replacement,street,teheka
+unc_nonword_00932,two backpacks in a bire,two_objects_in_place,uncertain,non_word,base_0932,two backpacks in a park,pseudoword_replacement,park,bire
+unc_nonword_00933,two jahoyonok in a kitchen,two_objects_in_place,uncertain,non_word,base_0933,two backpacks in a kitchen,pseudoword_replacement,backpacks,jahoyonok
+unc_nonword_00934,two backpacks in a qayon,two_objects_in_place,uncertain,non_word,base_0934,two backpacks in a beach,pseudoword_replacement,beach,qayon
+unc_nonword_00935,two backpacks in an yuyuva,two_objects_in_place,uncertain,non_word,base_0935,two backpacks in an office,pseudoword_replacement,office,yuyuva
+unc_nonword_00936,two socevuqaw in a garden,two_objects_in_place,uncertain,non_word,base_0936,two backpacks in a garden,pseudoword_replacement,backpacks,socevuqaw
+unc_nonword_00937,two backpacks in a vajiso,two_objects_in_place,uncertain,non_word,base_0937,two backpacks in a forest,pseudoword_replacement,forest,vajiso
+unc_nonword_00938,two backpacks in a mohomu,two_objects_in_place,uncertain,non_word,base_0938,two backpacks in a desert,pseudoword_replacement,desert,mohomu
+unc_nonword_00939,two vesodufex in a city,two_objects_in_place,uncertain,non_word,base_0939,two backpacks in a city,pseudoword_replacement,backpacks,vesodufex
+unc_nonword_00940,two qonobesuj in a village,two_objects_in_place,uncertain,non_word,base_0940,two backpacks in a village,pseudoword_replacement,backpacks,qonobesuj
+unc_nonword_00941,two backpacks in a dinefafozi,two_objects_in_place,uncertain,non_word,base_0941,two backpacks in a restaurant,pseudoword_replacement,restaurant,dinefafozi
+unc_nonword_00942,two vovuhowoc in a cafe,two_objects_in_place,uncertain,non_word,base_0942,two backpacks in a cafe,pseudoword_replacement,backpacks,vovuhowoc
+unc_nonword_00943,two nugegecom in a library,two_objects_in_place,uncertain,non_word,base_0943,two backpacks in a library,pseudoword_replacement,backpacks,nugegecom
+unc_nonword_00944,two backpacks in a sizefe,two_objects_in_place,uncertain,non_word,base_0944,two backpacks in a school,pseudoword_replacement,school,sizefe
+unc_nonword_00945,two bulasotub in a market,two_objects_in_place,uncertain,non_word,base_0945,two backpacks in a market,pseudoword_replacement,backpacks,bulasotub
+unc_nonword_00946,two backpacks in a kexo,two_objects_in_place,uncertain,non_word,base_0946,two backpacks in a farm,pseudoword_replacement,farm,kexo
+unc_nonword_00947,two backpacks in a roduy,two_objects_in_place,uncertain,non_word,base_0947,two backpacks in a field,pseudoword_replacement,field,roduy
+unc_nonword_00948,two kuluzujah in an airport,two_objects_in_place,uncertain,non_word,base_0948,two backpacks in an airport,pseudoword_replacement,backpacks,kuluzujah
+unc_nonword_00949,two cicecuyin in a station,two_objects_in_place,uncertain,non_word,base_0949,two backpacks in a station,pseudoword_replacement,backpacks,cicecuyin
+unc_nonword_00950,two carehiyuxuh in a room,two_objects_in_place,uncertain,non_word,base_0950,two televisions in a room,pseudoword_replacement,televisions,carehiyuxuh
+unc_nonword_00951,two televisions in a xicami,two_objects_in_place,uncertain,non_word,base_0951,two televisions in a street,pseudoword_replacement,street,xicami
+unc_nonword_00952,two televisions in a qaru,two_objects_in_place,uncertain,non_word,base_0952,two televisions in a park,pseudoword_replacement,park,qaru
+unc_nonword_00953,two mogalivovej in a kitchen,two_objects_in_place,uncertain,non_word,base_0953,two televisions in a kitchen,pseudoword_replacement,televisions,mogalivovej
+unc_nonword_00954,two fuzudoyirun in a beach,two_objects_in_place,uncertain,non_word,base_0954,two televisions in a beach,pseudoword_replacement,televisions,fuzudoyirun
+unc_nonword_00955,two televisions in an vuyigu,two_objects_in_place,uncertain,non_word,base_0955,two televisions in an office,pseudoword_replacement,office,vuyigu
+unc_nonword_00956,two televisions in a voteye,two_objects_in_place,uncertain,non_word,base_0956,two televisions in a garden,pseudoword_replacement,garden,voteye
+unc_nonword_00957,two televisions in a jafasa,two_objects_in_place,uncertain,non_word,base_0957,two televisions in a forest,pseudoword_replacement,forest,jafasa
+unc_nonword_00958,two yoraniwebem in a desert,two_objects_in_place,uncertain,non_word,base_0958,two televisions in a desert,pseudoword_replacement,televisions,yoraniwebem
+unc_nonword_00959,two televisions in a dimu,two_objects_in_place,uncertain,non_word,base_0959,two televisions in a city,pseudoword_replacement,city,dimu
+unc_nonword_00960,two televisions in a baniquy,two_objects_in_place,uncertain,non_word,base_0960,two televisions in a village,pseudoword_replacement,village,baniquy
+unc_nonword_00961,two henitocetez in a restaurant,two_objects_in_place,uncertain,non_word,base_0961,two televisions in a restaurant,pseudoword_replacement,televisions,henitocetez
+unc_nonword_00962,two televisions in a wiso,two_objects_in_place,uncertain,non_word,base_0962,two televisions in a cafe,pseudoword_replacement,cafe,wiso
+unc_nonword_00963,two vixiwubexip in a library,two_objects_in_place,uncertain,non_word,base_0963,two televisions in a library,pseudoword_replacement,televisions,vixiwubexip
+unc_nonword_00964,two gibiquhuyoh in a school,two_objects_in_place,uncertain,non_word,base_0964,two televisions in a school,pseudoword_replacement,televisions,gibiquhuyoh
+unc_nonword_00965,two miciratepom in a market,two_objects_in_place,uncertain,non_word,base_0965,two televisions in a market,pseudoword_replacement,televisions,miciratepom
+unc_nonword_00966,two vihapajasub in a farm,two_objects_in_place,uncertain,non_word,base_0966,two televisions in a farm,pseudoword_replacement,televisions,vihapajasub
+unc_nonword_00967,two televisions in a vejit,two_objects_in_place,uncertain,non_word,base_0967,two televisions in a field,pseudoword_replacement,field,vejit
+unc_nonword_00968,two televisions in an nefugec,two_objects_in_place,uncertain,non_word,base_0968,two televisions in an airport,pseudoword_replacement,airport,nefugec
+unc_nonword_00969,two televisions in a qufamay,two_objects_in_place,uncertain,non_word,base_0969,two televisions in a station,pseudoword_replacement,station,qufamay
