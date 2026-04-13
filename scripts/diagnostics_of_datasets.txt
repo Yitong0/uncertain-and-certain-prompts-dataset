@@ -1,0 +1,183 @@
+yitonglin@Yitongs-MacBook-Air uncertain-and-certain-prompts-dataset % python3 scripts/quality_checks.py               
+Loaded: data/raw/base_prompts.csv
+Loaded: data/generated/corrupted_variants.csv
+Loaded: data/generated/nonword_variants.csv
+Loaded: data/generated/word_salad_variants.csv
+Loaded: data/generated/adversarial_nonsense_variants.csv
+Loaded: data/generated/gibberish_variants.csv
+
+============================================================
+BASIC DATASET CHECKS
+============================================================
+Total rows: 8976
+Total columns: 15
+
+Columns:
+['prompt_id', 'prompt_text', 'template_type', 'category', 'base_prompt_id', 'generation_method', 'subcategory', 'source_prompt_text', 'corrupted_word', 'original_word', 'pseudoword', 'original_word_order', 'original_object', 'nonsense_attribute', 'token_count']
+
+Missing values per column:
+prompt_id                 0
+prompt_text               0
+template_type             0
+category                  0
+base_prompt_id          969
+generation_method         0
+subcategory               0
+source_prompt_text      969
+corrupted_word         4131
+original_word          8007
+pseudoword             8007
+original_word_order    8007
+original_object        8721
+nonsense_attribute     8721
+token_count            8007
+dtype: int64
+
+Duplicate prompt_text count:
+121
+
+Prompt length stats (number of words):
+count    8976.000000
+mean        3.886364
+std         0.993578
+min         3.000000
+25%         3.000000
+50%         3.000000
+75%         5.000000
+max         5.000000
+Name: prompt_text, dtype: float64
+
+============================================================
+CATEGORY COUNTS
+============================================================
+subcategory
+corrupted_noisy         4845
+certain                  969
+non_word                 969
+word_salad               969
+gibberish                969
+adversarial_nonsense     255
+Name: count, dtype: int64
+
+============================================================
+DUPLICATE PROMPTS
+============================================================
+Duplicate rows found: 240
+
+Sample duplicate prompts:
+                prompt_text
+4072  a backpack on a floor
+2338               a big ca
+1423            a bl bottle
+1478      a blac television
+1422         a black bottle
+1178              a blu car
+1187           a blue apple
+1197            a blue book
+1209           a blue camer
+1159              a blue cu
+3838       a bottle on a be
+1824             a brown ca
+1839             a brown cu
+1823             a brown do
+3884          a ca on a bed
+3728         a ca on a desk
+3883        a ca on a shelf
+2194              a cyan ca
+436            a dirty book
+3708        a do on a shelf
+
+============================================================
+CORRUPTED PROMPTS CHECK
+============================================================
+Corrupted rows: 4845
+Corrupted prompts identical to source: 53
+
+Sample corrupted prompts:
+    source_prompt_text        prompt_text    generation_method
+969   a photo of a dog    a hoto of a dog          delete_char
+970   a photo of a dog  a photo of a dhog          insert_char
+971   a photo of a dog   a whoto of a dog      substitute_char
+972   a photo of a dog   a phoot of a dog  swap_adjacent_chars
+973   a photo of a dog    a phot of a dog        truncate_word
+974   a photo of a cat    a poto of a cat          delete_char
+975   a photo of a cat  a photto of a cat          insert_char
+976   a photo of a cat   a photg of a cat      substitute_char
+977   a photo of a cat   a photo of a act  swap_adjacent_chars
+978   a photo of a cat    a photo of a ca        truncate_word
+
+============================================================
+NON-WORD PROMPTS CHECK
+============================================================
+Non-word rows: 969
+original_word == pseudoword count: 0
+
+Sample non-word prompts:
+        source_prompt_text           prompt_text original_word pseudoword
+5814      a photo of a dog      a bikeg of a dog         photo      bikeg
+5815      a photo of a cat      a waxoc of a cat         photo      waxoc
+5816    a photo of a chair    a dekuy of a chair         photo      dekuy
+5817    a photo of a table    a wezur of a table         photo      wezur
+5818      a photo of a cup      a sulah of a cup         photo      sulah
+5819   a photo of a bottle   a photo of a nigena        bottle     nigena
+5820  a photo of a bicycle  a qapiy of a bicycle         photo      qapiy
+5821      a photo of a car     a photo of a cowa           car       cowa
+5822     a photo of a rack     a photo of a dumu          rack       dumu
+5823   a photo of an apple   a photo of an xedak         apple      xedak
+
+============================================================
+WORD SALAD CHECK
+============================================================
+Word salad rows: 969
+Word salad prompts identical to source: 0
+
+Sample word salad prompts:
+        source_prompt_text           prompt_text
+6783      a photo of a dog      a of a dog photo
+6784      a photo of a cat      cat a of a photo
+6785    a photo of a chair    of photo a a chair
+6786    a photo of a table    photo a a of table
+6787      a photo of a cup      cup a a of photo
+6788   a photo of a bottle   of a photo a bottle
+6789  a photo of a bicycle  a a of photo bicycle
+6790      a photo of a car      a of car a photo
+6791     a photo of a rack     a a rack photo of
+6792   a photo of an apple   a of apple an photo
+
+============================================================
+ADVERSARIAL NONSENSE CHECK
+============================================================
+Adversarial nonsense rows: 255
+
+Sample adversarial nonsense prompts:
+     source_prompt_text        prompt_text                          generation_method
+7752        a small dog       a liquid dog  replace_attribute_with_nonsense_attribute
+7753        a small dog      a melting dog  replace_attribute_with_nonsense_attribute
+7754        a small dog  a transparent dog  replace_attribute_with_nonsense_attribute
+7755        a small dog     a floating dog  replace_attribute_with_nonsense_attribute
+7756        a small dog   an invisible dog  replace_attribute_with_nonsense_attribute
+7757        a small dog     a sleeping dog  replace_attribute_with_nonsense_attribute
+7758        a small dog      a singing dog  replace_attribute_with_nonsense_attribute
+7759        a small dog       a hungry dog  replace_attribute_with_nonsense_attribute
+7760        a small dog     a dreaming dog  replace_attribute_with_nonsense_attribute
+7761        a small dog     a laughing dog  replace_attribute_with_nonsense_attribute
+
+============================================================
+GIBBERISH CHECK
+============================================================
+Gibberish rows: 969
+
+Sample gibberish prompts:
+        source_prompt_text                               prompt_text  token_count
+8007      a photo of a dog               lgur jyju xbenjiq pcuq zpdk          5.0
+8008      a photo of a cat     eozejz hkqz nacojuit ogwxxke cerqswaf          5.0
+8009    a photo of a chair     irbiefiu puuubpik aauewvou oivkn kbzd          5.0
+8010    a photo of a table          aljx terrczqa wrsdw waet qeqswtm          5.0
+8011      a photo of a cup              uaatv vhdkx crxln gmdya vpeh          5.0
+8012   a photo of a bottle   izwfefe jellar nisrfg pgccefwo eeanoefc          5.0
+8013  a photo of a bicycle          skjlivw ailynv xcaw difir mjqhmb          5.0
+8014      a photo of a car  rusjhm ykkekuaz qkbaevwf swsvwho kiukden          5.0
+8015     a photo of a rack      gganrrxa biowelbq euqbr eqsqr owpdae          5.0
+8016   a photo of an apple         ugfjl yaeamq ezmuuip nrap oviwoxk          5.0
+
+Saved summary report to: outputs/statistics.csv

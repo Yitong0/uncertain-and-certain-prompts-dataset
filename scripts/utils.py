@@ -1,10 +1,15 @@
 import random
 import string
 
-def article(word: str) -> str:
-    word = word.strip().lower()
+def article(phrase):
+    word = phrase.split()[0].lower()
+
+    if word.startswith(("one", "uni", "use", "euro")):
+        return "a"
+
     if word[0] in "aeiou":
         return "an"
+
     return "a"
 
 ALPHABET = string.ascii_lowercase

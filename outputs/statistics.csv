@@ -1,0 +1,12 @@
+metric,value
+total_rows,8976.0
+duplicate_prompt_text_count,121.0
+subcategory_count::corrupted_noisy,4845.0
+subcategory_count::certain,969.0
+subcategory_count::non_word,969.0
+subcategory_count::word_salad,969.0
+subcategory_count::gibberish,969.0
+subcategory_count::adversarial_nonsense,255.0
+prompt_length_mean,3.8863636363636362
+prompt_length_min,3.0
+prompt_length_max,5.0

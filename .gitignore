@@ -1,3 +1,14 @@
+.venv/
+venv/
+env/
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
 .ipynb_checkpoints/
+outputs/
 outputs/plots/
+*.log
+*.tmp
+*.cache
