@@ -233,7 +233,7 @@ def generate_logical_contradictions():
 
 
 def main():
-    output_dir = Path("data/generated")
+    output_dir = Path("data/uncertain")
     output_path = output_dir / "adversarial_nonsense_variants.csv"
 
     make_output_dir(output_dir)

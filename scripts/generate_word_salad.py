@@ -41,8 +41,8 @@ def generate_word_salad_variants(df_base: pd.DataFrame, seed=42) -> pd.DataFrame
 
 
 def main():
-    base_path = Path("data/raw/base_prompts.csv")
-    output_dir = Path("data/generated")
+    base_path = Path("data/certain/base_prompts.csv")
+    output_dir = Path("data/uncertain")
     output_path = output_dir / "word_salad_variants.csv"
 
     make_output_dir(output_dir)

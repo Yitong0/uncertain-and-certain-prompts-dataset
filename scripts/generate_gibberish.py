@@ -49,8 +49,8 @@ def generate_gibberish_variants(df_base: pd.DataFrame, seed: int = 42) -> pd.Dat
 
 
 def main():
-    base_path = Path("data/raw/base_prompts.csv")
-    output_dir = Path("data/generated")
+    base_path = Path("data/certain/base_prompts.csv")
+    output_dir = Path("data/uncertain")
     output_path = output_dir / "gibberish_variants.csv"
 
     make_output_dir(output_dir)

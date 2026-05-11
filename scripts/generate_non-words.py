@@ -22,6 +22,9 @@ def generate_nonword_variants(df_base: pd.DataFrame, seed=42):
         base_id = row["prompt_id"]
 
         new_prompt, original_word, pseudoword = replace_with_pseudoword(base_prompt)
+        # Skip unwanted sample
+        if "a nazi cat" in new_prompt.lower():
+            continue
 
         rows.append(
             {
@@ -45,8 +48,8 @@ def generate_nonword_variants(df_base: pd.DataFrame, seed=42):
 
 def main():
 
-    base_path = Path("data/raw/base_prompts.csv")
-    output_dir = Path("data/generated")
+    base_path = Path("data/certain/base_prompts.csv")
+    output_dir = Path("data/uncertain")
     output_path = output_dir / "nonword_variants.csv"
 
     make_output_dir(output_dir)
